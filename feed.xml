@@ -1,0 +1,333 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Anxious Accountant</title>
+  <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
+  <updated>2021-12-09T19:27:01+00:00</updated>
+  <author>
+    <name>Andrew Boorman</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2021 Andrew Boorman </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Non-Alcoholic Beers</title>
+    <link href="/posts/non-alcoholic-beers/" rel="alternate" type="text/html" title="Non-Alcoholic Beers" />
+    <published>2021-11-28T16:34:00+00:00</published>
+  
+    <updated>2021-11-28T16:34:00+00:00</updated>
+  
+    <id>/posts/non-alcoholic-beers/</id>
+    <content src="/posts/non-alcoholic-beers/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+    <category term="Recent" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      My Non-Alcoholic Beer Journey
+
+
+
+In November 2010 I had my last alcoholic drink and in the last 10+ years the world of non-alcoholic beers has come on leaps and bounds.
+
+So here is a story of my Non-Alcoholic Beer Journey as I have taken at least one picture of every beer (50 at time of writing) I have had over the years, but have 100s of pictures in my non alcoholic beer album on google photos...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Days Lager</title>
+    <link href="/posts/DaysLager/" rel="alternate" type="text/html" title="Days Lager" />
+    <published>2021-11-11T12:00:00+00:00</published>
+  
+    <updated>2021-11-11T12:00:00+00:00</updated>
+  
+    <id>/posts/DaysLager/</id>
+    <content src="/posts/DaysLager/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Days Lager
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.05%
+    
+    
+      Ingredients
+      Water, Malted Barley, Maltose, Hop extracts, Natural flavourings
+    
+    
+      Released
+      2020
+    
+    
+      My First Taste
+      11 Nov 2021
+    
+    
+      My Rating
+      9/10
+    
+    
+      Website
+      https://daysbrewing.com/products/lager
+    
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Beavertown Lazer Crush</title>
+    <link href="/posts/Lazer/" rel="alternate" type="text/html" title="Beavertown Lazer Crush" />
+    <published>2021-10-23T12:00:00+00:00</published>
+  
+    <updated>2021-10-23T12:00:00+00:00</updated>
+  
+    <id>/posts/Lazer/</id>
+    <content src="/posts/Lazer/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Beavertown Lazer Crush
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.3%
+    
+    
+      Ingredients
+      Water, Malted Barley, Hops and Yeast
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      23 Oct 2021
+    
+    
+      My Rating
+      4/10
+    
+    
+      Website
+      https://beavertownbrewery.co.uk/products/lazer-crush
+    
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Mikkeller Drink'In the Sun</title>
+    <link href="/posts/DrinkIN/" rel="alternate" type="text/html" title="Mikkeller Drink'In the Sun" />
+    <published>2021-10-23T12:00:00+00:00</published>
+  
+    <updated>2021-10-23T12:00:00+00:00</updated>
+  
+    <id>/posts/DrinkIN/</id>
+    <content src="/posts/DrinkIN/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Mikkeller Drink’In the Sun
+    
+    
+      Country
+      Denmark
+    
+    
+      ABV
+      0.3%
+    
+    
+      Ingredients
+      Water, Barley Malt, Wheat Malt, hops and mikkellsis?
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      23 Oct 2021
+    
+    
+      My Rating
+      4/10
+    
+    
+      Website
+      https://shop.mikkeller.dk/product...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Sainsbury's Pilsner Zero Alcohol</title>
+    <link href="/posts/Pilsner/" rel="alternate" type="text/html" title="Sainsbury's Pilsner Zero Alcohol" />
+    <published>2021-10-09T12:00:00+00:00</published>
+  
+    <updated>2021-10-09T12:00:00+00:00</updated>
+  
+    <id>/posts/Pilsner/</id>
+    <content src="/posts/Pilsner/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Sainsbury’s Pilsner Zero Alcohol
+    
+    
+      Country
+      UK (bottled in France)
+    
+    
+      ABV
+      0.0%
+    
+    
+      Ingredients
+      Water, Barley Malt, Citric Acid, Hop Extract and Flavourings
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      09 Oct 2021
+    
+    
+      My Rating
+      8/10
+    
+    
+      Website
+      http...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
