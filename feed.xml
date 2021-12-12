@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-12-11T21:09:57+00:00</updated>
+  <updated>2021-12-12T09:42:05+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -264,21 +264,23 @@ So here is a story of my Non-Alcoholic Beer Journey as I have taken at least one
 
   
   <entry>
-    <title>Sainsbury's Pilsner Zero Alcohol</title>
-    <link href="http://localhost:4000/posts/Pilsner/" rel="alternate" type="text/html" title="Sainsbury's Pilsner Zero Alcohol" />
-    <published>2021-10-09T12:00:00+00:00</published>
+    <title>All Change Please!</title>
+    <link href="http://localhost:4000/posts/allchangeplease/" rel="alternate" type="text/html" title="All Change Please!" />
+    <published>2021-10-20T12:00:00+00:00</published>
   
-    <updated>2021-10-09T12:00:00+00:00</updated>
+    <updated>2021-10-20T12:00:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/Pilsner/</id>
-    <content src="http://localhost:4000/posts/Pilsner/" />
+    <id>http://localhost:4000/posts/allchangeplease/</id>
+    <content src="http://localhost:4000/posts/allchangeplease/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
 
   
     
-    <category term="Non-Alcoholic Beers" />
+    <category term="Mental Health" />
+    
+    <category term="Work" />
     
   
 
@@ -290,39 +292,9 @@ So here is a story of my Non-Alcoholic Beer Journey as I have taken at least one
 
 
 
-      
-  
-    
-      Name
-      Sainsbury’s Pilsner Zero Alcohol
-    
-    
-      Country
-      UK (bottled in France)
-    
-    
-      ABV
-      0.0%
-    
-    
-      Ingredients
-      Water, Barley Malt, Citric Acid, Hop Extract and Flavourings
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      09 Oct 2021
-    
-    
-      My Rating
-      8/10
-    
-    
-      Website
-      http...
+      Last week it was announced by my manager that I would be leaving Zurich after 14 years of working here. This was only the second time in my life I have handed my resignation in to a manager if you don’t include leaving my Saturday job at Sainsburys which I can’t remember how I did that with it being such a long time ago!
+
+Now I have changed a lot over the past 14 and not only my physical appear...
     </summary>
   
 
