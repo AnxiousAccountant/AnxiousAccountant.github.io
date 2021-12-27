@@ -52,7 +52,7 @@ const allowedDomains = [
     'www.google-analytics.com',
   
 
-  'www.anxiousaccountant.co.uk',
+  'localhost:4000',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',
