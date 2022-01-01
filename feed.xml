@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-12-27T22:25:34+00:00</updated>
+  <updated>2022-01-01T11:36:28+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -13,30 +13,30 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
-  <rights> © 2021 Andrew Boorman </rights>
+  <rights> © 2022 Andrew Boorman </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Non-Alcoholic Beers</title>
-    <link href="http://localhost:4000/posts/non-alcoholic-beers/" rel="alternate" type="text/html" title="Non-Alcoholic Beers" />
-    <published>2021-11-28T16:34:00+00:00</published>
+    <title>A new year and a new website!</title>
+    <link href="http://localhost:4000/posts/a-new-website/" rel="alternate" type="text/html" title="A new year and a new website!" />
+    <published>2022-01-01T00:01:00+00:00</published>
   
-    <updated>2021-11-28T16:34:00+00:00</updated>
+    <updated>2021-01-01T11:00:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/non-alcoholic-beers/</id>
-    <content src="http://localhost:4000/posts/non-alcoholic-beers/" />
+    <id>http://localhost:4000/posts/a-new-website/</id>
+    <content src="http://localhost:4000/posts/a-new-website/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
 
   
     
-    <category term="Non-Alcoholic Beers" />
+    <category term="Anxious Accountant" />
     
-    <category term="Recent" />
+    <category term="New Website" />
     
   
 
@@ -48,13 +48,7 @@
 
 
 
-      My Non-Alcoholic Beer Journey
-
-
-
-In November 2010 I had my last alcoholic drink and in the last 10+ years the world of non-alcoholic beers has come on leaps and bounds.
-
-So here is a story of my Non-Alcoholic Beer Journey as I have taken at least one picture of every beer (50 at time of writing) I have had over the years, but have 100s of pictures in my non alcoholic beer album on google photos...
+      On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
     </summary>
   
 
