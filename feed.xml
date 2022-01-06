@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-01-06T20:46:22+00:00</updated>
+  <updated>2022-01-06T20:57:55+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -49,6 +49,138 @@
 
 
       On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Thornbridge Five Zero</title>
+    <link href="http://localhost:4000/posts/ZeroFive/" rel="alternate" type="text/html" title="Thornbridge Five Zero" />
+    <published>2021-12-26T12:00:00+00:00</published>
+  
+    <updated>2022-01-06T20:54:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/ZeroFive/</id>
+    <content src="http://localhost:4000/posts/ZeroFive/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Thornbridge Five Zero
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, barley malt, wheat malt, hops, yeast, orange peel
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      26 Dec 2021
+    
+    
+      My Rating
+      5/10
+    
+    
+      Website
+      https://thornbridgebrewery.co.uk/beer/z...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Budweiser Zero</title>
+    <link href="http://localhost:4000/posts/BudZero/" rel="alternate" type="text/html" title="Budweiser Zero" />
+    <published>2021-12-19T12:00:00+00:00</published>
+  
+    <updated>2022-01-06T20:50:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/BudZero/</id>
+    <content src="http://localhost:4000/posts/BudZero/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Budweiser Zero
+    
+    
+      Country
+      USA
+    
+    
+      ABV
+      0.0%
+    
+    
+      Ingredients
+      Water, Barley Malt, Rice, Hops, Natural Flavours
+    
+    
+      Released
+      2020
+    
+    
+      My First Taste
+      19 Dec 2021
+    
+    
+      My Rating
+      5/10
+    
+    
+      Website
+      https://www.tapintoyourbeer.com/beer/en/budweiser-zero-0...
     </summary>
   
 
@@ -183,140 +315,6 @@
       https://daysbrewing.com/products/lager
     
 ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Beavertown Lazer Crush</title>
-    <link href="http://localhost:4000/posts/Lazer/" rel="alternate" type="text/html" title="Beavertown Lazer Crush" />
-    <published>2021-10-23T12:00:00+00:00</published>
-  
-    <updated>2021-10-23T12:00:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/Lazer/</id>
-    <content src="http://localhost:4000/posts/Lazer/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Beavertown Lazer Crush
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.3%
-    
-    
-      Ingredients
-      Water, Malted Barley, Hops and Yeast
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      23 Oct 2021
-    
-    
-      My Rating
-      4/10
-    
-    
-      Website
-      https://beavertownbrewery.co.uk/products/lazer-crush
-    
-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Mikkeller Drink'In the Sun</title>
-    <link href="http://localhost:4000/posts/DrinkIN/" rel="alternate" type="text/html" title="Mikkeller Drink'In the Sun" />
-    <published>2021-10-23T12:00:00+00:00</published>
-  
-    <updated>2021-10-23T12:00:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/DrinkIN/</id>
-    <content src="http://localhost:4000/posts/DrinkIN/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Mikkeller Drink’In the Sun
-    
-    
-      Country
-      Denmark
-    
-    
-      ABV
-      0.3%
-    
-    
-      Ingredients
-      Water, Barley Malt, Wheat Malt, hops and mikkellsis?
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      23 Oct 2021
-    
-    
-      My Rating
-      4/10
-    
-    
-      Website
-      https://shop.mikkeller.dk/product...
     </summary>
   
 
