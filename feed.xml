@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-01-01T11:54:09+00:00</updated>
+  <updated>2022-01-06T20:42:18+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -49,6 +49,72 @@
 
 
       On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Days Pale Ale</title>
+    <link href="http://localhost:4000/posts/DaysPaleAle/" rel="alternate" type="text/html" title="Days Pale Ale" />
+    <published>2021-12-18T12:00:00+00:00</published>
+  
+    <updated>2021-11-11T20:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/DaysPaleAle/</id>
+    <content src="http://localhost:4000/posts/DaysPaleAle/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Days Pale Ale
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.05%
+    
+    
+      Ingredients
+      Water, Malted Barley, Hop extracts, Natural flavouring
+    
+    
+      Released
+      2020
+    
+    
+      My First Taste
+      18 Dec 2021
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://daysbrewing.com/products/alcohol-free-pale-...
     </summary>
   
 
@@ -251,44 +317,6 @@
     
       Website
       https://shop.mikkeller.dk/product...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>All Change Please!</title>
-    <link href="http://localhost:4000/posts/allchangeplease/" rel="alternate" type="text/html" title="All Change Please!" />
-    <published>2021-10-20T12:00:00+00:00</published>
-  
-    <updated>2021-10-20T12:00:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/allchangeplease/</id>
-    <content src="http://localhost:4000/posts/allchangeplease/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Mental Health" />
-    
-    <category term="Work" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Last week it was announced by my manager that I would be leaving Zurich after 14 years of working here. This was only the second time in my life I have handed my resignation in to a manager if you don’t include leaving my Saturday job at Sainsburys which I can’t remember how I did that with it being such a long time ago!
-
-Now I have changed a lot over the past 14 and not only my physical appear...
     </summary>
   
 
