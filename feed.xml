@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-01-07T09:30:48+00:00</updated>
+  <updated>2022-01-08T22:12:02+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,139 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Aldi Sainte Etienne 0%</title>
+    <link href="http://localhost:4000/posts/SainteEtienne/" rel="alternate" type="text/html" title="Aldi Sainte Etienne 0%" />
+    <published>2022-01-08T22:04:00+00:00</published>
+  
+    <updated>2022-01-08T22:04:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/SainteEtienne/</id>
+    <content src="http://localhost:4000/posts/SainteEtienne/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Get £10 off your first order at HonestBrew
+
+
+  
+    
+      Name
+      Aldi Sainte Etienne 0%
+    
+    
+      Country
+      UK (bottled in France)
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Barley Malt, Hop Extract, Flavouring, Citric Acid
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      08 Jan 2022
+    
+    
+      My Rating
+      3/10
+    ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Big Drop Paradiso Citra IPA</title>
+    <link href="http://localhost:4000/posts/Paradiso/" rel="alternate" type="text/html" title="Big Drop Paradiso Citra IPA" />
+    <published>2022-01-07T12:00:00+00:00</published>
+  
+    <updated>2022-01-08T20:47:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/Paradiso/</id>
+    <content src="http://localhost:4000/posts/Paradiso/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Get £10 off your first order at HonestBrew
+
+
+  
+    
+      Name
+      Big Drop Paradiso Citra IPA
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Barley, Oats, Wheat, Lactose, Hop, yeast
+    
+    
+      Released
+       
+    
+    
+      My First Taste
+      07 Jan 2022
+    
+    
+      My Rating
+      6/10
+    
+    
+      Website
+      http...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -56,14 +189,14 @@
 
   
   <entry>
-    <title>Thornbridge Five Zero</title>
-    <link href="http://localhost:4000/posts/ZeroFive/" rel="alternate" type="text/html" title="Thornbridge Five Zero" />
-    <published>2021-12-26T12:00:00+00:00</published>
+    <title>Aegirbryggeri Minus</title>
+    <link href="http://localhost:4000/posts/Minus/" rel="alternate" type="text/html" title="Aegirbryggeri Minus" />
+    <published>2021-12-31T12:00:00+00:00</published>
   
-    <updated>2022-01-06T20:54:00+00:00</updated>
+    <updated>2022-01-08T19:15:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/ZeroFive/</id>
-    <content src="http://localhost:4000/posts/ZeroFive/" />
+    <id>http://localhost:4000/posts/Minus/</id>
+    <content src="http://localhost:4000/posts/Minus/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
@@ -82,15 +215,17 @@
 
 
 
-      
+      Get £10 off your first order at HonestBrew
+
+
   
     
       Name
-      Thornbridge Five Zero
+      Aegirbryggeri Minus
     
     
       Country
-      UK
+      Norway
     
     
       ABV
@@ -98,7 +233,7 @@
     
     
       Ingredients
-      water, barley malt, wheat malt, hops, yeast, orange peel
+      Water, Malted Barley, Hops, Yeast
     
     
       Released
@@ -106,15 +241,15 @@
     
     
       My First Taste
-      26 Dec 2021
+      31 Dec 2021
     
     
       My Rating
-      5/10
+      2/10
     
     
       Website
-      https://thornbridgebrewery.co.uk/beer/z...
+      https://www.aegi...
     </summary>
   
 
@@ -122,14 +257,14 @@
 
   
   <entry>
-    <title>Budweiser Zero</title>
-    <link href="http://localhost:4000/posts/BudZero/" rel="alternate" type="text/html" title="Budweiser Zero" />
-    <published>2021-12-19T12:00:00+00:00</published>
+    <title>Waldhaus Diplom Pils Alkoholfrei</title>
+    <link href="http://localhost:4000/posts/Diplom/" rel="alternate" type="text/html" title="Waldhaus Diplom Pils Alkoholfrei" />
+    <published>2021-12-31T12:00:00+00:00</published>
   
-    <updated>2022-01-06T20:50:00+00:00</updated>
+    <updated>2022-01-08T19:48:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/BudZero/</id>
-    <content src="http://localhost:4000/posts/BudZero/" />
+    <id>http://localhost:4000/posts/Diplom/</id>
+    <content src="http://localhost:4000/posts/Diplom/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
@@ -148,173 +283,41 @@
 
 
 
-      
+      Get £10 off your first order at HonestBrew
+
+
   
     
       Name
-      Budweiser Zero
+      Waldhaus Diplom Pils Alkoholfrei
     
     
       Country
-      USA
+      Germany
     
     
       ABV
-      0.0%
+      0.5%
     
     
       Ingredients
-      Water, Barley Malt, Rice, Hops, Natural Flavours
+      Water, Malt, Hops
     
     
       Released
-      2020
+      Unknown
     
     
       My First Taste
-      19 Dec 2021
+      31 Dec 2021
     
     
       My Rating
-      5/10
+      8/10
     
     
       Website
-      https://www.tapintoyourbeer.com/beer/en/budweiser-zero-0...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Days Pale Ale</title>
-    <link href="http://localhost:4000/posts/DaysPaleAle/" rel="alternate" type="text/html" title="Days Pale Ale" />
-    <published>2021-12-18T12:00:00+00:00</published>
-  
-    <updated>2022-01-06T20:40:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/DaysPaleAle/</id>
-    <content src="http://localhost:4000/posts/DaysPaleAle/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Days Pale Ale
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.05%
-    
-    
-      Ingredients
-      Water, Malted Barley, Hop extracts, Natural flavouring
-    
-    
-      Released
-      2020
-    
-    
-      My First Taste
-      18 Dec 2021
-    
-    
-      My Rating
-      7/10
-    
-    
-      Website
-      https://daysbrewing.com/products/alcohol-free-pale-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Days Lager</title>
-    <link href="http://localhost:4000/posts/DaysLager/" rel="alternate" type="text/html" title="Days Lager" />
-    <published>2021-11-11T12:00:00+00:00</published>
-  
-    <updated>2021-11-11T12:00:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/DaysLager/</id>
-    <content src="http://localhost:4000/posts/DaysLager/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Days Lager
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.05%
-    
-    
-      Ingredients
-      Water, Malted Barley, Maltose, Hop extracts, Natural flavourings
-    
-    
-      Released
-      2020
-    
-    
-      My First Taste
-      11 Nov 2021
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://daysbrewing.com/products/lager
-    
-...
+      https://www.waldha...
     </summary>
   
 
