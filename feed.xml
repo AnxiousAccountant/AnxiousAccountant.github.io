@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-01-11T22:55:59+00:00</updated>
+  <updated>2022-01-16T17:06:01+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,139 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Impossibrew Hazy Pale</title>
+    <link href="http://localhost:4000/posts/ImpossibrewPale/" rel="alternate" type="text/html" title="Impossibrew Hazy Pale" />
+    <published>2022-01-15T21:04:00+00:00</published>
+  
+    <updated>2022-01-16T16:57:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/ImpossibrewPale/</id>
+    <content src="http://localhost:4000/posts/ImpossibrewPale/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Impossibrew Hazy Pale
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Malted Barley, Hops, Wheat, Social Blend™ (L-Theanine, Ginseng Extract, Griffonia Seed Extract, Citrus Extract, Vitamin B1), Yeast.
+    
+    
+      Released
+      2021
+    
+    
+      My First Taste
+      16 Jan 2022
+    
+    
+      My Rating
+ ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Budvar Nealko</title>
+    <link href="http://localhost:4000/posts/BudvarNealko/" rel="alternate" type="text/html" title="Budvar Nealko" />
+    <published>2022-01-15T20:04:00+00:00</published>
+  
+    <updated>2022-01-16T16:47:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/BudvarNealko/</id>
+    <content src="http://localhost:4000/posts/BudvarNealko/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Budvar Nealko
+    
+    
+      Country
+      Czech Republic
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, barley malt, hops
+    
+    
+      Released
+      UK 2020
+    
+    
+      My First Taste
+      15 Jan 2022
+    
+    
+      My Rating
+      4/10
+    
+    
+      Website
+      https://budweiserbudvar.com/uk/product/budvar-nealko/
+    
+  
+
+
+Get...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -181,138 +314,6 @@
 
 
       On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Big Drop Uptime Craft Lager</title>
-    <link href="http://localhost:4000/posts/Uptime/" rel="alternate" type="text/html" title="Big Drop Uptime Craft Lager" />
-    <published>2021-12-31T12:00:00+00:00</published>
-  
-    <updated>2022-01-08T20:38:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/Uptime/</id>
-    <content src="http://localhost:4000/posts/Uptime/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Big Drop Uptime Craft Lager
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      WATER, BARLEY, RYE, WHEAT, HOPS, YEAST, MALTODEXTRIN
-    
-    
-      Released
-      Is this just a renamed Uptown?
-    
-    
-      My First Taste
-      31 Dec 2021
-    
-    
-      My Rating
-      4/10
-    
-    
-      Website
-      https://www.bi...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Aegirbryggeri Minus</title>
-    <link href="http://localhost:4000/posts/Minus/" rel="alternate" type="text/html" title="Aegirbryggeri Minus" />
-    <published>2021-12-31T12:00:00+00:00</published>
-  
-    <updated>2022-01-08T19:15:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/Minus/</id>
-    <content src="http://localhost:4000/posts/Minus/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Aegirbryggeri Minus
-    
-    
-      Country
-      Norway
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Malted Barley, Hops, Yeast
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      31 Dec 2021
-    
-    
-      My Rating
-      2/10
-    
-    
-      Website
-      https://www.aegirbryggeri.no/produkt/minus-non-alcoholic-pal...
     </summary>
   
 
