@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-01-27T20:41:07+00:00</updated>
+  <updated>2022-02-05T22:02:17+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Impossibrew Hazy Pale</title>
-    <link href="http://localhost:4000/posts/ImpossibrewPale/" rel="alternate" type="text/html" title="Impossibrew Hazy Pale" />
-    <published>2022-01-15T21:04:00+00:00</published>
+    <title>Stiegl 0.0% Freibier</title>
+    <link href="http://localhost:4000/posts/Stiegl/" rel="alternate" type="text/html" title="Stiegl 0.0% Freibier" />
+    <published>2022-02-05T21:04:00+00:00</published>
   
-    <updated>2022-01-16T16:57:00+00:00</updated>
+    <updated>2022-02-05T21:55:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/ImpossibrewPale/</id>
-    <content src="http://localhost:4000/posts/ImpossibrewPale/" />
+    <id>http://localhost:4000/posts/Stiegl/</id>
+    <content src="http://localhost:4000/posts/Stiegl/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
@@ -50,218 +50,19 @@
   
     
       Name
-      Impossibrew Hazy Pale
+      Stiegl 0.0% Freibier
     
     
       Country
-      UK
+      Austria
     
     
       ABV
-      0.5%
+      0.0%
     
     
       Ingredients
-      Water, Malted Barley, Hops, Wheat, Social Blend™ (L-Theanine, Ginseng Extract, Griffonia Seed Extract, Citrus Extract, Vitamin B1), Yeast.
-    
-    
-      Released
-      2021
-    
-    
-      My First Taste
-      16 Jan 2022
-    
-    
-      My Rating
- ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Budvar Nealko</title>
-    <link href="http://localhost:4000/posts/BudvarNealko/" rel="alternate" type="text/html" title="Budvar Nealko" />
-    <published>2022-01-15T20:04:00+00:00</published>
-  
-    <updated>2022-01-16T16:47:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/BudvarNealko/</id>
-    <content src="http://localhost:4000/posts/BudvarNealko/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Budvar Nealko
-    
-    
-      Country
-      Czech Republic
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      water, barley malt, hops
-    
-    
-      Released
-      UK 2020
-    
-    
-      My First Taste
-      15 Jan 2022
-    
-    
-      My Rating
-      4/10
-    
-    
-      Website
-      https://budweiserbudvar.com/uk/product/budvar-nealko/
-    
-  
-
-
-Get...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Aldi Sainte Etienne 0%</title>
-    <link href="http://localhost:4000/posts/SainteEtienne/" rel="alternate" type="text/html" title="Aldi Sainte Etienne 0%" />
-    <published>2022-01-08T22:04:00+00:00</published>
-  
-    <updated>2022-01-08T22:04:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/SainteEtienne/</id>
-    <content src="http://localhost:4000/posts/SainteEtienne/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Aldi Sainte Etienne 0%
-    
-    
-      Country
-      UK (bottled in France)
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Barley Malt, Hop Extract, Flavouring, Citric Acid
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      08 Jan 2022
-    
-    
-      My Rating
-      3/10
-    
-    
-      Website
-      https://groceries....
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Big Drop Paradiso Citra IPA</title>
-    <link href="http://localhost:4000/posts/Paradiso/" rel="alternate" type="text/html" title="Big Drop Paradiso Citra IPA" />
-    <published>2022-01-07T12:00:00+00:00</published>
-  
-    <updated>2022-01-08T20:47:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/Paradiso/</id>
-    <content src="http://localhost:4000/posts/Paradiso/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Big Drop Paradiso Citra IPA
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Barley, Oats, Wheat, Lactose, Hop, yeast
+       
     
     
       Released
@@ -269,15 +70,22 @@ Get...
     
     
       My First Taste
-      07 Jan 2022
+      05 Feb 2022
     
     
       My Rating
-      6/10
+      7/10
     
     
       Website
-      https://www.bigdropbrew.com/drinks/alcohol-free-...
+      
+    
+  
+
+
+Get £10 off your first order at HonestBrew
+
+The 3rd beer of the night as it always go...
     </summary>
   
 
@@ -285,23 +93,21 @@ Get...
 
   
   <entry>
-    <title>A new year and a new website!</title>
-    <link href="http://localhost:4000/posts/a-new-website/" rel="alternate" type="text/html" title="A new year and a new website!" />
-    <published>2022-01-01T00:01:00+00:00</published>
+    <title>Sagres</title>
+    <link href="http://localhost:4000/posts/Sagres/" rel="alternate" type="text/html" title="Sagres" />
+    <published>2022-02-05T20:04:00+00:00</published>
   
-    <updated>2021-01-01T11:00:00+00:00</updated>
+    <updated>2022-02-05T21:50:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/a-new-website/</id>
-    <content src="http://localhost:4000/posts/a-new-website/" />
+    <id>http://localhost:4000/posts/Sagres/</id>
+    <content src="http://localhost:4000/posts/Sagres/" />
     <author>
       <name>Andrew Boorman</name>
     </author>
 
   
     
-    <category term="Anxious Accountant" />
-    
-    <category term="New Website" />
+    <category term="Non-Alcoholic Beers" />
     
   
 
@@ -313,7 +119,245 @@ Get...
 
 
 
-      On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
+      
+  
+    
+      Name
+      Sagres
+    
+    
+      Country
+      Portugal
+    
+    
+      ABV
+      0.0%
+    
+    
+      Ingredients
+       
+    
+    
+      Released
+       
+    
+    
+      My First Taste
+      05 Feb 2022
+    
+    
+      My Rating
+      9/10
+    
+    
+      Website
+      
+    
+  
+
+
+Get £10 off your first order at HonestBrew
+
+Sagres takes me back to going to Portugal to watch Eur...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Esmer Alda</title>
+    <link href="http://localhost:4000/posts/EsmerAlda/" rel="alternate" type="text/html" title="Esmer Alda" />
+    <published>2022-02-05T18:04:00+00:00</published>
+  
+    <updated>2022-02-05T21:45:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/EsmerAlda/</id>
+    <content src="http://localhost:4000/posts/EsmerAlda/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Esmer Alda
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Hops, Malt, Wheat, Oats, Yeast, Potassium Sorbate &amp;amp; Mockingbird Spirit
+    
+    
+      Released
+      2021
+    
+    
+      My First Taste
+      05 Feb 2022
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://www.mockingbirdspiri...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Nirvana Lager</title>
+    <link href="http://localhost:4000/posts/NirvanaLager/" rel="alternate" type="text/html" title="Nirvana Lager" />
+    <published>2022-02-04T21:04:00+00:00</published>
+  
+    <updated>2022-02-05T16:57:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/NirvanaLager/</id>
+    <content src="http://localhost:4000/posts/NirvanaLager/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Nirvana Lager
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.3%
+    
+    
+      Ingredients
+      Malted barley, hops, water, yeast
+    
+    
+      Released
+      unknown
+    
+    
+      My First Taste
+      04 Feb 2022
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://nirvanabrewery.com/products/bavarian-helles-lager-0-3-abv
+    ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Maisel's Weisse Alkoholfrei</title>
+    <link href="http://localhost:4000/posts/Maisel/" rel="alternate" type="text/html" title="Maisel's Weisse Alkoholfrei" />
+    <published>2022-02-03T21:04:00+00:00</published>
+  
+    <updated>2022-02-05T16:57:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/Maisel/</id>
+    <content src="http://localhost:4000/posts/Maisel/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Maisel’s Weisse Alkoholfrei
+    
+    
+      Country
+      Germany
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, wheat malt, barley malt, yeast, hops natural fermintation carbondioxide
+    
+    
+      Released
+      unknown
+    
+    
+      My First Taste
+      03 Feb 2022
+    
+    
+      My Rating
+      4/10
+    
+    
+      Website
+      https:...
     </summary>
   
 
