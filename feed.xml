@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-02-19T20:38:10+00:00</updated>
+  <updated>2022-02-19T21:08:49+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,145 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>LO AH</title>
+    <link href="http://localhost:4000/posts/LOAH/" rel="alternate" type="text/html" title="LO AH" />
+    <published>2022-02-19T19:00:00+00:00</published>
+  
+    <updated>2022-02-19T21:05:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/LOAH/</id>
+    <content src="http://localhost:4000/posts/LOAH/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      LO AH
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      oats, wheat, barley, hops, water, yeast, natural lime flavouring, citric extract.
+    
+    
+      Released
+      2020
+    
+    
+      My First Taste
+      19 February 2022
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://loah.beer/
+    
+  
+
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Lager Day Saints</title>
+    <link href="http://localhost:4000/posts/LagerDaySaints/" rel="alternate" type="text/html" title="Lager Day Saints" />
+    <published>2022-02-19T18:00:00+00:00</published>
+  
+    <updated>2022-02-19T21:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/LagerDaySaints/</id>
+    <content src="http://localhost:4000/posts/LagerDaySaints/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Lager Day Saints
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Barley, Maltodextrin, Hops, Yeast
+    
+    
+      Released
+      2021
+    
+    
+      My First Taste
+      19 February 2022
+    
+    
+      My Rating
+      9/10
+    
+    
+      Website
+      https://siwcbrewery.com/products/lager-day-saints
+    
+  
+...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -221,139 +360,6 @@ Get £10 off y...
     
       Website
       https://www.mockingbirdspiri...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Nirvana Lager</title>
-    <link href="http://localhost:4000/posts/NirvanaLager/" rel="alternate" type="text/html" title="Nirvana Lager" />
-    <published>2022-02-04T21:04:00+00:00</published>
-  
-    <updated>2022-02-05T16:57:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/NirvanaLager/</id>
-    <content src="http://localhost:4000/posts/NirvanaLager/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Nirvana Lager
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.3%
-    
-    
-      Ingredients
-      Malted barley, hops, water, yeast
-    
-    
-      Released
-      unknown
-    
-    
-      My First Taste
-      04 Feb 2022
-    
-    
-      My Rating
-      7/10
-    
-    
-      Website
-      https://nirvanabrewery.com/products/bavarian-helles-lager-0-3-abv
-    ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Maisel's Weisse Alkoholfrei</title>
-    <link href="http://localhost:4000/posts/Maisel/" rel="alternate" type="text/html" title="Maisel's Weisse Alkoholfrei" />
-    <published>2022-02-03T21:04:00+00:00</published>
-  
-    <updated>2022-02-05T16:57:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/Maisel/</id>
-    <content src="http://localhost:4000/posts/Maisel/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Maisel’s Weisse Alkoholfrei
-    
-    
-      Country
-      Germany
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      water, wheat malt, barley malt, yeast, hops natural fermintation carbondioxide
-    
-    
-      Released
-      unknown
-    
-    
-      My First Taste
-      03 Feb 2022
-    
-    
-      My Rating
-      4/10
-    
-    
-      Website
-      https:...
     </summary>
   
 
