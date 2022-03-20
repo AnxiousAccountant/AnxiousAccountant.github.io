@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-03-05T14:36:03+00:00</updated>
+  <updated>2022-03-20T08:58:58+00:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,77 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Big Drop Coba Maya</title>
+    <link href="http://localhost:4000/posts/BigDropCobaMaya/" rel="alternate" type="text/html" title="Big Drop Coba Maya" />
+    <published>2022-03-19T19:00:00+00:00</published>
+  
+    <updated>2022-03-20T08:45:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/BigDropCobaMaya/</id>
+    <content src="http://localhost:4000/posts/BigDropCobaMaya/" />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Big Drop Coba Maya
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, barley, lactose, oats, rice, hops, yeast
+    
+    
+      Released
+       
+    
+    
+      My First Taste
+      19 Mar 2022
+    
+    
+      My Rating
+      8/10
+    
+    
+      Website
+      https://www.bigdropbrew.com/drinks/coba-maya/
+    
+  
+
+
+G...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -294,72 +365,6 @@ Get £10 off your firs...
 
 
 Get £10 off y...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Esmer Alda</title>
-    <link href="http://localhost:4000/posts/EsmerAlda/" rel="alternate" type="text/html" title="Esmer Alda" />
-    <published>2022-02-05T18:04:00+00:00</published>
-  
-    <updated>2022-02-05T21:45:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/EsmerAlda/</id>
-    <content src="http://localhost:4000/posts/EsmerAlda/" />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Esmer Alda
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Hops, Malt, Wheat, Oats, Yeast, Potassium Sorbate &amp;amp; Mockingbird Spirit
-    
-    
-      Released
-      2021
-    
-    
-      My First Taste
-      05 Feb 2022
-    
-    
-      My Rating
-      7/10
-    
-    
-      Website
-      https://www.mockingbirdspiri...
     </summary>
   
 
