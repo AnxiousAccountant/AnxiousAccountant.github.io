@@ -4,7 +4,7 @@
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-03-30T20:57:50+01:00</updated>
+  <updated>2022-03-30T21:26:15+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -31,6 +31,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
+     <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />
 
   
     
@@ -99,6 +100,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
+     <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />
 
   
     
@@ -165,6 +167,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
+     <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />
 
   
     
@@ -236,6 +239,7 @@ G...
     <author>
       <name>Andrew Boorman</name>
     </author>
+     <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />
 
   
     
@@ -306,6 +310,7 @@ G...
     <author>
       <name>Andrew Boorman</name>
     </author>
+     <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LagerDaySaints.jpg" />
 
   
     
