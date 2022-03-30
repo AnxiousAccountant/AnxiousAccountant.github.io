@@ -4,7 +4,7 @@
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-03-20T11:00:30+00:00</updated>
+  <updated>2022-03-30T20:57:50+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -20,11 +20,145 @@
 
   
   <entry>
+    <title>Toast</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Toast/ " rel="alternate" type="text/html" title="Toast" />
+    <published>2022-03-30T20:00:00+01:00</published>
+  
+    <updated>2022-03-30T21:04:00+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Toast/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/Toast/ " />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Toast
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, malted barley, surplus bread, lemongrass
+    
+    
+      Released
+      2022
+    
+    
+      My First Taste
+      30 Mar 2022
+    
+    
+      My Rating
+      9/10
+    
+    
+      Website
+      https://www.toastale.com/item/118/toastale/Low-Alc-Lager.html
+    
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Firebrand Brewery Shorebreak</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " rel="alternate" type="text/html" title="Firebrand Brewery Shorebreak" />
+    <published>2022-03-26T21:00:00+01:00</published>
+  
+    <updated>2022-03-30T21:04:00+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Shorebreak/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Firebrand Brewery Shorebreak
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      water, malt, hops, barley, wheat, oats
+    
+    
+      Released
+      2022
+    
+    
+      My First Taste
+      26 Mar 2022
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://firebrandbrewing.co.uk/collections/core/produ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Big Drop Coba Maya</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " rel="alternate" type="text/html" title="Big Drop Coba Maya" />
-    <published>2022-03-19T19:00:00+00:00</published>
+    <published>2022-03-19T20:00:00+01:00</published>
   
-    <updated>2022-03-20T08:45:00+00:00</updated>
+    <updated>2022-03-20T09:45:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " />
@@ -93,9 +227,9 @@ G...
   <entry>
     <title>LO AH</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/LOAH/ " rel="alternate" type="text/html" title="LO AH" />
-    <published>2022-02-19T19:00:00+00:00</published>
+    <published>2022-02-19T20:00:00+01:00</published>
   
-    <updated>2022-02-19T21:05:00+00:00</updated>
+    <updated>2022-02-19T22:05:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/LOAH/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/LOAH/ " />
@@ -163,9 +297,9 @@ G...
   <entry>
     <title>Lager Day Saints</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " rel="alternate" type="text/html" title="Lager Day Saints" />
-    <published>2022-02-19T18:00:00+00:00</published>
+    <published>2022-02-19T19:00:00+01:00</published>
   
-    <updated>2022-02-19T21:00:00+00:00</updated>
+    <updated>2022-02-19T22:00:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " />
@@ -223,148 +357,6 @@ G...
     
   
 ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Stiegl 0.0% Freibier</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Stiegl/ " rel="alternate" type="text/html" title="Stiegl 0.0% Freibier" />
-    <published>2022-02-05T21:04:00+00:00</published>
-  
-    <updated>2022-02-05T21:55:00+00:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Stiegl/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Stiegl/ " />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Stiegl 0.0% Freibier
-    
-    
-      Country
-      Austria
-    
-    
-      ABV
-      0.0%
-    
-    
-      Ingredients
-      Water, barley malt, wheat malt, hops, yeast, carbon dioxide
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      05 Feb 2022
-    
-    
-      My Rating
-      7/10
-    
-    
-      Website
-      
-    
-  
-
-
-Get £10 off your firs...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Sagres</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Sagres/ " rel="alternate" type="text/html" title="Sagres" />
-    <published>2022-02-05T20:04:00+00:00</published>
-  
-    <updated>2022-02-05T21:50:00+00:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Sagres/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Sagres/ " />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Sagres
-    
-    
-      Country
-      Portugal
-    
-    
-      ABV
-      0.0%
-    
-    
-      Ingredients
-      Water, Malted Barley, Malted Wheat, Carbon Dioxide, Hop Extract, Natural Flavour
-    
-    
-      Released
-      Unknown
-    
-    
-      My First Taste
-      05 Feb 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      
-    
-  
-
-
-Get £10 off y...
     </summary>
   
 

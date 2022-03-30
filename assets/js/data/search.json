@@ -1,11 +1,41 @@
 [
   
   {
+    "title": "Toast",
+    "url": "/posts/Toast/",
+    "categories": "Non-Alcoholic Beers",
+    "tags": "beers, recent-beer",
+    "date": "2022-03-30 20:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "            Name      Toast              Country      UK              ABV      0.5%              Ingredients      water, malted barley, surplus bread, lemongrass              Released      2022              My First Taste      30 Mar 2022              My Rating      9/10              Website      https://www.toastale.com/item/118/toastale/Low-Alc-Lager.html      Get £10 off your first order at HonestBrewHere’s to change with a light refreshing planet-saving lager. Toast make their beers using surplus fresh bread so it doesn’t go to waste and all profits go to charities fixing the food system.Not only is this a planet-saving beer its actually a really nice tasting refreshing lager which is also the first of the beers I have tried to have lemongrass in it, which gave it a twist in the aftertaste.The concept of this lager is great and that at the time of writing sneaks it into the top 10.Follow my Non-Alcoholic Beer Journey"
+  },
+  
+  {
+    "title": "Firebrand Brewery Shorebreak",
+    "url": "/posts/Shorebreak/",
+    "categories": "Non-Alcoholic Beers",
+    "tags": "beers, recent-beer",
+    "date": "2022-03-26 21:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "            Name      Firebrand Brewery Shorebreak              Country      UK              ABV      0.5%              Ingredients      water, malt, hops, barley, wheat, oats              Released      2022              My First Taste      26 Mar 2022              My Rating      7/10              Website      https://firebrandbrewing.co.uk/collections/core/products/shorebreak-alcohol-free-hazy-pale      Get £10 off your first order at HonestBrewSo I picked this one up on my way home from a break in cornwall after bumping in a sales rep on one of my days out and asked them if they did a non-alcoholic beer which she said they did and it has only launched that week!It took me a few days to actually get round to trying and this one had a really strong fruity smell as I poured and being a hazy pale the look lived up to the name. The taste was strong to start with and I intially thought it was too strong.But as I continued drinking it grew on me and was a great full tasting beer. And it was nice to have a chat with the person at the brewery when I picked it up.Follow my Non-Alcoholic Beer Journey"
+  },
+  
+  {
     "title": "Big Drop Coba Maya",
     "url": "/posts/BigDropCobaMaya/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-03-19 19:00:00 +0000",
+    "date": "2022-03-19 20:00:00 +0100",
     
 
 
@@ -20,7 +50,7 @@
     "url": "/posts/LOAH/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-19 19:00:00 +0000",
+    "date": "2022-02-19 20:00:00 +0100",
     
 
 
@@ -35,7 +65,7 @@
     "url": "/posts/LagerDaySaints/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-19 18:00:00 +0000",
+    "date": "2022-02-19 19:00:00 +0100",
     
 
 
@@ -50,7 +80,7 @@
     "url": "/posts/Stiegl/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-05 21:04:00 +0000",
+    "date": "2022-02-05 22:04:00 +0100",
     
 
 
@@ -65,7 +95,7 @@
     "url": "/posts/Sagres/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-05 20:04:00 +0000",
+    "date": "2022-02-05 21:04:00 +0100",
     
 
 
@@ -80,7 +110,7 @@
     "url": "/posts/EsmerAlda/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-05 18:04:00 +0000",
+    "date": "2022-02-05 19:04:00 +0100",
     
 
 
@@ -95,7 +125,7 @@
     "url": "/posts/NirvanaLager/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-04 21:04:00 +0000",
+    "date": "2022-02-04 22:04:00 +0100",
     
 
 
@@ -110,7 +140,7 @@
     "url": "/posts/Maisel/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers, recent-beer",
-    "date": "2022-02-03 21:04:00 +0000",
+    "date": "2022-02-03 22:04:00 +0100",
     
 
 
@@ -124,8 +154,8 @@
     "title": "Impossibrew Lager",
     "url": "/posts/ImpossibrewLager/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-29 21:04:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-29 22:04:00 +0100",
     
 
 
@@ -139,8 +169,8 @@
     "title": "Smashed Lager",
     "url": "/posts/Smashed/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-28 21:04:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-28 22:04:00 +0100",
     
 
 
@@ -154,8 +184,8 @@
     "title": "Impossibrew Hazy Pale",
     "url": "/posts/ImpossibrewPale/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-15 21:04:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-15 22:04:00 +0100",
     
 
 
@@ -169,8 +199,8 @@
     "title": "Budvar Nealko",
     "url": "/posts/BudvarNealko/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-15 20:04:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-15 21:04:00 +0100",
     
 
 
@@ -184,8 +214,8 @@
     "title": "Aldi Sainte Etienne 0%",
     "url": "/posts/SainteEtienne/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-08 22:04:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-08 23:04:00 +0100",
     
 
 
@@ -199,8 +229,8 @@
     "title": "Big Drop Paradiso Citra IPA",
     "url": "/posts/Paradiso/",
     "categories": "Non-Alcoholic Beers",
-    "tags": "beers, recent-beer",
-    "date": "2022-01-07 12:00:00 +0000",
+    "tags": "beers",
+    "date": "2022-01-07 13:00:00 +0100",
     
 
 
@@ -215,7 +245,7 @@
     "url": "/posts/a-new-website/",
     "categories": "Anxious Accountant, New Website",
     "tags": "review-of-year, new-website, blogger, jekyll",
-    "date": "2022-01-01 00:01:00 +0000",
+    "date": "2022-01-01 01:01:00 +0100",
     
 
 
@@ -230,7 +260,7 @@
     "url": "/posts/Uptime/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-31 12:00:00 +0000",
+    "date": "2021-12-31 13:00:00 +0100",
     
 
 
@@ -245,7 +275,7 @@
     "url": "/posts/Minus/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-31 12:00:00 +0000",
+    "date": "2021-12-31 13:00:00 +0100",
     
 
 
@@ -260,7 +290,7 @@
     "url": "/posts/Diplom/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-31 12:00:00 +0000",
+    "date": "2021-12-31 13:00:00 +0100",
     
 
 
@@ -275,7 +305,7 @@
     "url": "/posts/ZeroFive/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-26 12:00:00 +0000",
+    "date": "2021-12-26 13:00:00 +0100",
     
 
 
@@ -290,7 +320,7 @@
     "url": "/posts/BudZero/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-19 12:00:00 +0000",
+    "date": "2021-12-19 13:00:00 +0100",
     
 
 
@@ -305,7 +335,7 @@
     "url": "/posts/DaysPaleAle/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-12-18 12:00:00 +0000",
+    "date": "2021-12-18 13:00:00 +0100",
     
 
 
@@ -320,7 +350,7 @@
     "url": "/posts/DaysLager/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-11-11 12:00:00 +0000",
+    "date": "2021-11-11 13:00:00 +0100",
     
 
 
@@ -335,7 +365,7 @@
     "url": "/posts/Lazer/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-10-23 12:00:00 +0000",
+    "date": "2021-10-23 13:00:00 +0100",
     
 
 
@@ -350,7 +380,7 @@
     "url": "/posts/DrinkIN/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-10-23 12:00:00 +0000",
+    "date": "2021-10-23 13:00:00 +0100",
     
 
 
@@ -365,7 +395,7 @@
     "url": "/posts/allchangeplease/",
     "categories": "Mental Health, Work",
     "tags": "mental-health, anxiety, depression, work",
-    "date": "2021-10-20 12:00:00 +0000",
+    "date": "2021-10-20 13:00:00 +0100",
     
 
 
@@ -380,7 +410,7 @@
     "url": "/posts/Pilsner/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-10-09 12:00:00 +0000",
+    "date": "2021-10-09 13:00:00 +0100",
     
 
 
@@ -395,7 +425,7 @@
     "url": "/posts/Wheesht/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-10-06 12:00:00 +0000",
+    "date": "2021-10-06 13:00:00 +0100",
     
 
 
@@ -410,7 +440,7 @@
     "url": "/posts/DoubleStrike/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-10-01 12:00:00 +0000",
+    "date": "2021-10-01 13:00:00 +0100",
     
 
 
@@ -425,7 +455,7 @@
     "url": "/posts/SmashedPale/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-09-29 12:00:00 +0000",
+    "date": "2021-09-29 13:00:00 +0100",
     
 
 
@@ -440,7 +470,7 @@
     "url": "/posts/SummerCompleted/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, summer",
-    "date": "2021-09-29 12:00:00 +0000",
+    "date": "2021-09-29 13:00:00 +0100",
     
 
 
@@ -455,7 +485,7 @@
     "url": "/posts/Furstenberg/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-09-25 12:00:00 +0000",
+    "date": "2021-09-25 13:00:00 +0100",
     
 
 
@@ -470,7 +500,7 @@
     "url": "/posts/HazyAF/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-09-10 12:00:00 +0000",
+    "date": "2021-09-10 13:00:00 +0100",
     
 
 
@@ -485,7 +515,7 @@
     "url": "/posts/LostAF/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-08-27 12:00:00 +0000",
+    "date": "2021-08-27 13:00:00 +0100",
     
 
 
@@ -500,7 +530,7 @@
     "url": "/posts/Clausthaler/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-07-23 12:00:00 +0000",
+    "date": "2021-07-23 13:00:00 +0100",
     
 
 
@@ -515,7 +545,7 @@
     "url": "/posts/DoomBar/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-07-22 12:00:00 +0000",
+    "date": "2021-07-22 13:00:00 +0100",
     
 
 
@@ -530,7 +560,7 @@
     "url": "/posts/Hoegaarden/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-07-02 12:00:00 +0000",
+    "date": "2021-07-02 13:00:00 +0100",
     
 
 
@@ -545,7 +575,7 @@
     "url": "/posts/RothausHefe/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-06-25 12:00:00 +0000",
+    "date": "2021-06-25 13:00:00 +0100",
     
 
 
@@ -560,7 +590,7 @@
     "url": "/posts/Sport/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-06-23 12:00:00 +0000",
+    "date": "2021-06-23 13:00:00 +0100",
     
 
 
@@ -575,7 +605,7 @@
     "url": "/posts/BigDropPine/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-06-17 12:00:00 +0000",
+    "date": "2021-06-17 13:00:00 +0100",
     
 
 
@@ -590,7 +620,7 @@
     "url": "/posts/pluginhybrid/",
     "categories": "Electric Car, BMW",
     "tags": "electric-car, plug-in-hybrid, bmw",
-    "date": "2021-06-10 12:00:00 +0000",
+    "date": "2021-06-10 13:00:00 +0100",
     
 
 
@@ -605,7 +635,7 @@
     "url": "/posts/HereComesTheSummer/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, summer",
-    "date": "2021-06-07 12:00:00 +0000",
+    "date": "2021-06-07 13:00:00 +0100",
     
 
 
@@ -620,7 +650,7 @@
     "url": "/posts/FreshStart/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-06-03 12:00:00 +0000",
+    "date": "2021-06-03 13:00:00 +0100",
     
 
 
@@ -635,7 +665,7 @@
     "url": "/posts/RothausTann/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-05-30 12:00:00 +0000",
+    "date": "2021-05-30 13:00:00 +0100",
     
 
 
@@ -650,7 +680,7 @@
     "url": "/posts/Leffe/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-05-27 12:00:00 +0000",
+    "date": "2021-05-27 13:00:00 +0100",
     
 
 
@@ -665,7 +695,7 @@
     "url": "/posts/LuckySaint/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-05-26 12:00:00 +0000",
+    "date": "2021-05-26 13:00:00 +0100",
     
 
 
@@ -680,7 +710,7 @@
     "url": "/posts/BigDropMilk/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-05-21 12:00:00 +0000",
+    "date": "2021-05-21 13:00:00 +0100",
     
 
 
@@ -695,7 +725,7 @@
     "url": "/posts/SupermarketAnxiety/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, supermarket",
-    "date": "2021-05-16 12:00:00 +0000",
+    "date": "2021-05-16 13:00:00 +0100",
     
 
 
@@ -710,7 +740,7 @@
     "url": "/posts/Tropica/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-05-12 12:00:00 +0000",
+    "date": "2021-05-12 13:00:00 +0100",
     
 
 
@@ -725,7 +755,7 @@
     "url": "/posts/LettingAnxietyHoliday/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, holiday",
-    "date": "2021-04-17 12:00:00 +0000",
+    "date": "2021-04-17 13:00:00 +0100",
     
 
 
@@ -740,7 +770,7 @@
     "url": "/posts/PunkAF/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-04-13 12:00:00 +0000",
+    "date": "2021-04-13 13:00:00 +0100",
     
 
 
@@ -755,7 +785,7 @@
     "url": "/posts/Stella/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-04-12 12:00:00 +0000",
+    "date": "2021-04-12 13:00:00 +0100",
     
 
 
@@ -770,7 +800,7 @@
     "url": "/posts/DigitalMinimalism/",
     "categories": "Book Review, Digital",
     "tags": "mental-health, digital-minimalism, books",
-    "date": "2021-04-02 12:00:00 +0000",
+    "date": "2021-04-02 13:00:00 +0100",
     
 
 
@@ -785,7 +815,7 @@
     "url": "/posts/givingupchocolate/",
     "categories": "Charity, Chocolate",
     "tags": "charity, chocolate, mind, mnd, nas",
-    "date": "2021-03-28 12:00:00 +0000",
+    "date": "2021-03-28 13:00:00 +0100",
     
 
 
@@ -800,7 +830,7 @@
     "url": "/posts/wellbeingorprofits/",
     "categories": "Mental Health, Wellbeing",
     "tags": "mental-health, wellbeing, work",
-    "date": "2021-03-22 12:00:00 +0000",
+    "date": "2021-03-22 13:00:00 +0100",
     
 
 
@@ -815,7 +845,7 @@
     "url": "/posts/the-bounce-back-journey-of-mens-health/",
     "categories": "Book Review, Health",
     "tags": "mental-health, anxiety, depression, books",
-    "date": "2021-03-18 12:00:00 +0000",
+    "date": "2021-03-18 13:00:00 +0100",
     
 
 
@@ -830,7 +860,7 @@
     "url": "/posts/BigDropUptown/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2021-01-29 12:00:00 +0000",
+    "date": "2021-01-29 13:00:00 +0100",
     
 
 
@@ -845,14 +875,14 @@
     "url": "/posts/non-alcoholic-beers/",
     "categories": "Non-Alcoholic Beers",
     "tags": "non-alcoholic-beers",
-    "date": "2021-01-01 16:34:00 +0000",
+    "date": "2021-01-01 17:34:00 +0100",
     
 
 
 
 
 
-    "snippet": "My Non-Alcoholic Beer JourneyIn November 2010 I had my last alcoholic drink and in the last 10+ years the world of non-alcoholic beers has come on leaps and bounds.Get £10 off your first order at HonestBrewSo here is a story of my Non-Alcoholic Beer Journey as I have taken at least one picture of every beer I have had over the years I have 100s of pictures in my non alcoholic beer album on google photos and the most photographed beer in my collection is Heineken Zero.With most of the beers there is a story, others only worthy of a couple of lines but each given a score out of 10 and as I try new ones they will be added to the list and from 2021 onwards I will be reviewing them as close to trying as possibleCurrent count of different non-alcoholic beers tried: 91My recent beers                                   Big Drop Coba MayaMar 19, 2022                                                           LO AHFeb 19, 2022                                                           Lager Day SaintsFeb 19, 2022                                                           Stiegl 0.0% FreibierFeb  5, 2022                                                           SagresFeb  5, 2022                                                           Esmer AldaFeb  5, 2022                                                           Nirvana LagerFeb  4, 2022                                                           Maisel&#39;s Weisse AlkoholfreiFeb  3, 2022                                                           Impossibrew LagerJan 29, 2022                                                           Smashed LagerJan 28, 2022                                                           Impossibrew Hazy PaleJan 15, 2022                                                           Budvar NealkoJan 15, 2022                                                           Aldi Sainte Etienne 0%Jan  8, 2022                                                           Big Drop Paradiso Citra IPAJan  7, 2022                             Techniques for non-alcoholic beersInterestingly I have learnt a little about how non alcoholic beers are made in most cases the beer is brewed normally and then the alcohol is taken out but most breweries keep their exact technique secret, but below are the 4 most common techniques to produce a non-alcoholic beer which is defined as having 0.5% ABV or less are:      Reverse osmosis: is a water purification process that uses a partially permeable membrane to separate ions, unwanted molecules and larger particles in the case of beer the alcohol and water is removed, leaving a concentrated version of the beer, the water is then added back without the alcohol.        Limited Fermentation: alcohol in beer is produced during fermentation, when yeast breaks down the sugar, this can be done in a variety of different waysLimiting Fermentable Sugars: Using grains that produce less fermentable sugars or techniques that limit the sugars from the grains in the mashing process.Special Yeast Strains: Some yeast strains will naturally produce less alcohol on fermentation but this may leave you more sugars in the final beer or other leave the beer with a sour taste.Blocking Fermentation: By changing the environment (eg temperature, acidity) during fermentation can either stop or slow down the process leaving less alcohol but you may be left with a sweeter or “unfinished” tasting beer.        Watering Down: So rather than removing the alcohol you dilute the finished beer with water, with this process you need to make a concentrate beer first.        Avoid Fermentation: By not fermenting the beer you avoid creating the alcohol but you also avoid doing what makes a beer a beer but producers tweak the production process to create a drink that looks and tastes like a beer.  Below is a link to more details on each of the beers I have tried. (I can’t confirm for definite that I have tried a beer from each of the 4 techniques above but I know for definite I have tried a reverse osmosis and avoid fermentation) My Top Ranked Beers                   Peroni Libera 0.0%              So after my first try of non alcoholic beer in 2007 it took 12 years for me to find a beer worthy of a full 10/10. I spotted it on a random trip to Tesco and even though it was more expensive than any of the previous 30+ beers, I had to give it a try.                                         1                    My Rating: 10/10                                    San Miguel 0,0              So a family trip to Ibiza in 2014 and one of the best non-alcoholic beers. I am not sure if the sun was a factor or that it tasted just like the real San Miguel but it was almost like the best beer I had tasted for such a long time, but my early relationship with San Miguel 0,0 was cut short after a week in Ibiza.                                         2                    My Rating: 9.5/10                                    Heineken Zero (Draught)              It was Christmas Eve as I walked into the pub I noticed Heineken Zero was available on draught what a early Christmas present my first ever pint of non-alcoholic beer!!!                                        3                    My Rating: 9.5/10                                    Heineken Zero              Another road trip this time to the south of France and a stop over in central France for the night delivered another new beer and one that now is a staple in my non-alcoholic beer journey as its available widely in the UK and is the non-alcoholic beer in the new Tottenham hotspur stadium.                                         4                    My Rating: 9/10                                    Birra Moretti Zero              With the Drive behind me it was onto our first meal in Italy on the holiday and my first Italian non-alcoholic beer. This was the non-alcoholic beer I had been waiting for since San Miguel back in 2014.                                        5                    My Rating: 9/10                                My Other Ranked Beers                           6:        9/10               Days Lager                     7:        9/10               Free Star                     8:        9/10               Lager Day Saints                     9:        9/10               Sagres 0.0%                     10:        9/10               Brewdog Lost AF                     11:        8/10               Holsten Alcohol-Free                     12:        8/10               Lucky Saint                     13:        8/10               Diplom Pils                     14:        8/10               Moritz 0,0                     15:        8/10               Big Drop Coba Maya                     16:        8/10               Sainsbury&#39;s Pilsner                     17:        8/10               Doom Bar Zero                     18:        8/10               Fresh Start                     19:        8/10               Impossibrew Lager                     20:        8/10               Bitburger Drive                     21:        7/10               Buckler Pur Malt                     22:        7/10               Cobra Zero                     23:        7/10               Rothaus - Hefe Weizen                     24:        7/10               Rothaus - Tannenzapfle                     25:        7/10               Days Pale Ale                     26:        7/10               Impossibrew Hazy Pale                     27:        7/10               Veltins Alkoholfrei                     28:        7/10               Smashed Pale                     29:        7/10               Nirvana Lager                     30:        7/10               Stella Artois                     31:        7/10               LO AH                     32:        7/10               Leffe Blond 0,0                     33:        7/10               Stiegl 0.0% Freibier                     34:        7/10               Bavaria Premium 0.0%                     35:        7/10               Esmer Alda                     36:        7/10               Big Drop Paradiso                     37:        6/10               Free Damm                     38:        6/10               Brewdog Hazy AF                     39:        6/10               Smashed Lager                     40:        6/10               St Peters Original                     41:        6/10               Jever Fun                     42:        6/10               Brewdog Punk AF                     43:        6/10               Paulaner Alkoholfree                     44:        6/10               Amstel Bier 0.0%                     45:        6/10               Warsteiner Fresh 0.0%                     46:        6/10               Big Drop Pine Trail                     47:        6/10               No Worries                     48:        6/10               Clausthaler non-alcoholic                     49:        6/10               Becks Blue                     50:        5/10               1664 Sans Alcool Blonde                     51:        5/10               Ghost Ship 0.5%                     52:        5/10               Budweiser Zero                     53:        5/10               Estrella Galicia 0.0%                     54:        5/10               Thornbridge Five Zero                     55:        5/10               Lager Blonde 0,0%                     56:        5/10               Furstenberg Pilsener 0,0%                     57:        5/10               Wieckse Radler 0,0%                     58:        5/10               Fruh Kolsch 0,0                     59:        5/10               Jupiler N.A                     60:        5/10               Carlsberg 0.0%                     61:        5/10               Feldschlosschen                     62:        5/10               Hoegaarden 0,0                     63:        4/10               Big Drop Uptime                     64:        4/10               Big Drop Uptown                     65:        4/10               Drink&#39;In the Sun                     66:        4/10               Beavertown Lazer Crush                     67:        4/10               San Miguel Manzana 0,0                     68:        4/10               Sport Zot                     69:        4/10               Wheest Dark Ale                     70:        4/10               Brooklyn Special Effects                     71:        4/10               Budweiser Prohibition                     72:        4/10               Budvar Nealko                     73:        4/10               Budweiser Budvar B:Free                     74:        4/10               Brewdog Nanny State                     75:        4/10               0                     76:        4/10               Erdinger Alkoholfrei                     77:        4/10               Franziskaner Alkoholfrei                     78:        4/10               Scheniger Weisse                     79:        4/10               Bavaria Wit 0.0%                     80:        4/10               Wieckse Rose 0,0%                     81:        3/10               Aldi Sainte Etienne 0%                     82:        3/10               Nirvana Pale Ale 0.0%                     83:        3/10               Kronenbourg Pur Malt                     84:        3/10               Innis &amp;amp; None                     85:        3/10               Becks Blue Lemon                     86:        2/10               Aegirbryggeri Minus                     87:        2/10               Big Drop Double Strike                     88:        1/10               Amstel 0.0% Grapefruit                     89:        1/10               Tiny Reel CLWB Tropica                     90:        0.5/10               Prestige Pur Malt &amp;lt;1%                     91:        0/10               Big Drop Galactic          "
+    "snippet": "My Non-Alcoholic Beer JourneyIn November 2010 I had my last alcoholic drink and in the last 10+ years the world of non-alcoholic beers has come on leaps and bounds.Get £10 off your first order at HonestBrewSo here is a story of my Non-Alcoholic Beer Journey as I have taken at least one picture of every beer I have had over the years I have 100s of pictures in my non alcoholic beer album on google photos and the most photographed beer in my collection is Heineken Zero.With most of the beers there is a story, others only worthy of a couple of lines but each given a score out of 10 and as I try new ones they will be added to the list and from 2021 onwards I will be reviewing them as close to trying as possibleCurrent count of different non-alcoholic beers tried: 93My recent beers                                   ToastMar 30, 2022                                                           Firebrand Brewery ShorebreakMar 26, 2022                                                           Big Drop Coba MayaMar 19, 2022                                                           LO AHFeb 19, 2022                                                           Lager Day SaintsFeb 19, 2022                                                           Stiegl 0.0% FreibierFeb  5, 2022                                                           SagresFeb  5, 2022                                                           Esmer AldaFeb  5, 2022                                                           Nirvana LagerFeb  4, 2022                                                           Maisel&#39;s Weisse AlkoholfreiFeb  3, 2022                             Techniques for non-alcoholic beersInterestingly I have learnt a little about how non alcoholic beers are made in most cases the beer is brewed normally and then the alcohol is taken out but most breweries keep their exact technique secret, but below are the 4 most common techniques to produce a non-alcoholic beer which is defined as having 0.5% ABV or less are:      Reverse osmosis: is a water purification process that uses a partially permeable membrane to separate ions, unwanted molecules and larger particles in the case of beer the alcohol and water is removed, leaving a concentrated version of the beer, the water is then added back without the alcohol.        Limited Fermentation: alcohol in beer is produced during fermentation, when yeast breaks down the sugar, this can be done in a variety of different waysLimiting Fermentable Sugars: Using grains that produce less fermentable sugars or techniques that limit the sugars from the grains in the mashing process.Special Yeast Strains: Some yeast strains will naturally produce less alcohol on fermentation but this may leave you more sugars in the final beer or other leave the beer with a sour taste.Blocking Fermentation: By changing the environment (eg temperature, acidity) during fermentation can either stop or slow down the process leaving less alcohol but you may be left with a sweeter or “unfinished” tasting beer.        Watering Down: So rather than removing the alcohol you dilute the finished beer with water, with this process you need to make a concentrate beer first.        Avoid Fermentation: By not fermenting the beer you avoid creating the alcohol but you also avoid doing what makes a beer a beer but producers tweak the production process to create a drink that looks and tastes like a beer.  Below is a link to more details on each of the beers I have tried. (I can’t confirm for definite that I have tried a beer from each of the 4 techniques above but I know for definite I have tried a reverse osmosis and avoid fermentation) My Top Ranked Beers                   Peroni Libera 0.0%              So after my first try of non alcoholic beer in 2007 it took 12 years for me to find a beer worthy of a full 10/10. I spotted it on a random trip to Tesco and even though it was more expensive than any of the previous 30+ beers, I had to give it a try.                                         1                    My Rating: 10/10                                    San Miguel 0,0              So a family trip to Ibiza in 2014 and one of the best non-alcoholic beers. I am not sure if the sun was a factor or that it tasted just like the real San Miguel but it was almost like the best beer I had tasted for such a long time, but my early relationship with San Miguel 0,0 was cut short after a week in Ibiza.                                         2                    My Rating: 9.5/10                                    Heineken Zero (Draught)              It was Christmas Eve as I walked into the pub I noticed Heineken Zero was available on draught what a early Christmas present my first ever pint of non-alcoholic beer!!!                                        3                    My Rating: 9.5/10                                    Heineken Zero              Another road trip this time to the south of France and a stop over in central France for the night delivered another new beer and one that now is a staple in my non-alcoholic beer journey as its available widely in the UK and is the non-alcoholic beer in the new Tottenham hotspur stadium.                                         4                    My Rating: 9/10                                    Birra Moretti Zero              With the Drive behind me it was onto our first meal in Italy on the holiday and my first Italian non-alcoholic beer. This was the non-alcoholic beer I had been waiting for since San Miguel back in 2014.                                        5                    My Rating: 9/10                                My Other Ranked Beers                           6:        9/10               Days Lager                     7:        9/10               Free Star                     8:        9/10               Lager Day Saints                     9:        9/10               Sagres 0.0%                     10:        9/10               Brewdog Lost AF                     11:        8/10               Holsten Alcohol-Free                     12:        8/10               Lucky Saint                     13:        8/10               Diplom Pils                     14:        8/10               Moritz 0,0                     15:        8/10               Big Drop Coba Maya                     16:        8/10               Sainsbury&#39;s Pilsner                     17:        8/10               Doom Bar Zero                     18:        8/10               Fresh Start                     19:        8/10               Impossibrew Lager                     20:        8/10               Bitburger Drive                     21:        7/10               Buckler Pur Malt                     22:        7/10               Cobra Zero                     23:        7/10               Rothaus - Hefe Weizen                     24:        7/10               Rothaus - Tannenzapfle                     25:        7/10               Days Pale Ale                     26:        7/10               Impossibrew Hazy Pale                     27:        7/10               Veltins Alkoholfrei                     28:        7/10               Smashed Pale                     29:        7/10               Nirvana Lager                     30:        7/10               Stella Artois                     31:        7/10               LO AH                     32:        7/10               Leffe Blond 0,0                     33:        7/10               Stiegl 0.0% Freibier                     34:        7/10               Bavaria Premium 0.0%                     35:        7/10               Esmer Alda                     36:        7/10               Big Drop Paradiso                     37:        6/10               Free Damm                     38:        6/10               Brewdog Hazy AF                     39:        6/10               Smashed Lager                     40:        6/10               St Peters Original                     41:        6/10               Jever Fun                     42:        6/10               Brewdog Punk AF                     43:        6/10               Paulaner Alkoholfree                     44:        6/10               Amstel Bier 0.0%                     45:        6/10               Warsteiner Fresh 0.0%                     46:        6/10               Big Drop Pine Trail                     47:        6/10               No Worries                     48:        6/10               Clausthaler non-alcoholic                     49:        6/10               Becks Blue                     50:        5/10               1664 Sans Alcool Blonde                     51:        5/10               Ghost Ship 0.5%                     52:        5/10               Budweiser Zero                     53:        5/10               Estrella Galicia 0.0%                     54:        5/10               Thornbridge Five Zero                     55:        5/10               Lager Blonde 0,0%                     56:        5/10               Furstenberg Pilsener 0,0%                     57:        5/10               Wieckse Radler 0,0%                     58:        5/10               Fruh Kolsch 0,0                     59:        5/10               Jupiler N.A                     60:        5/10               Carlsberg 0.0%                     61:        5/10               Feldschlosschen                     62:        5/10               Hoegaarden 0,0                     63:        4/10               Big Drop Uptime                     64:        4/10               Big Drop Uptown                     65:        4/10               Drink&#39;In the Sun                     66:        4/10               Beavertown Lazer Crush                     67:        4/10               San Miguel Manzana 0,0                     68:        4/10               Sport Zot                     69:        4/10               Wheest Dark Ale                     70:        4/10               Brooklyn Special Effects                     71:        4/10               Budweiser Prohibition                     72:        4/10               Budvar Nealko                     73:        4/10               Budweiser Budvar B:Free                     74:        4/10               Brewdog Nanny State                     75:        4/10               0                     76:        4/10               Erdinger Alkoholfrei                     77:        4/10               Franziskaner Alkoholfrei                     78:        4/10               Scheniger Weisse                     79:        4/10               Bavaria Wit 0.0%                     80:        4/10               Wieckse Rose 0,0%                     81:        3/10               Aldi Sainte Etienne 0%                     82:        3/10               Nirvana Pale Ale 0.0%                     83:        3/10               Kronenbourg Pur Malt                     84:        3/10               Innis &amp;amp; None                     85:        3/10               Becks Blue Lemon                     86:        2/10               Aegirbryggeri Minus                     87:        2/10               Big Drop Double Strike                     88:        1/10               Amstel 0.0% Grapefruit                     89:        1/10               Tiny Reel CLWB Tropica                     90:        0.5/10               Prestige Pur Malt &amp;lt;1%                     91:        0/10               Big Drop Galactic          "
   },
   
   {
@@ -860,7 +890,7 @@
     "url": "/posts/Nirvana/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2020-11-09 12:00:00 +0000",
+    "date": "2020-11-09 13:00:00 +0100",
     
 
 
@@ -875,7 +905,7 @@
     "url": "/posts/Moritz/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2020-10-03 12:00:00 +0000",
+    "date": "2020-10-03 13:00:00 +0100",
     
 
 
@@ -890,7 +920,7 @@
     "url": "/posts/FreeStar/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2020-08-04 12:00:00 +0000",
+    "date": "2020-08-04 13:00:00 +0100",
     
 
 
@@ -905,7 +935,7 @@
     "url": "/posts/Cobra/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-12-28 12:00:00 +0000",
+    "date": "2019-12-28 13:00:00 +0100",
     
 
 
@@ -920,7 +950,7 @@
     "url": "/posts/Noworries/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-12-26 12:00:00 +0000",
+    "date": "2019-12-26 13:00:00 +0100",
     
 
 
@@ -935,7 +965,7 @@
     "url": "/posts/HeinekenDraught/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-12-24 12:00:00 +0000",
+    "date": "2019-12-24 13:00:00 +0100",
     
 
 
@@ -950,7 +980,7 @@
     "url": "/posts/self-relection-one-year-on-copy/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, work",
-    "date": "2019-11-15 12:00:00 +0000",
+    "date": "2019-11-15 13:00:00 +0100",
     
 
 
@@ -965,7 +995,7 @@
     "url": "/posts/Estrella/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-09-27 12:00:00 +0000",
+    "date": "2019-09-27 13:00:00 +0100",
     
 
 
@@ -980,7 +1010,7 @@
     "url": "/posts/Brooklyn/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-08-28 12:00:00 +0000",
+    "date": "2019-08-28 13:00:00 +0100",
     
 
 
@@ -995,7 +1025,7 @@
     "url": "/posts/FreeDamm/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-07-20 12:00:00 +0000",
+    "date": "2019-07-20 13:00:00 +0100",
     
 
 
@@ -1010,7 +1040,7 @@
     "url": "/posts/its-okay-ok/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, work",
-    "date": "2019-06-26 12:00:00 +0000",
+    "date": "2019-06-26 13:00:00 +0100",
     
 
 
@@ -1025,7 +1055,7 @@
     "url": "/posts/Peroni/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2019-05-04 12:00:00 +0000",
+    "date": "2019-05-04 13:00:00 +0100",
     
 
 
@@ -1040,7 +1070,7 @@
     "url": "/posts/a-new-year/",
     "categories": "Mental Health, Anxiety",
     "tags": "mental-health, anxiety, depression, work",
-    "date": "2019-01-13 12:00:00 +0000",
+    "date": "2019-01-13 13:00:00 +0100",
     
 
 
@@ -1055,7 +1085,7 @@
     "url": "/posts/Warsteiner/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-12-24 12:00:00 +0000",
+    "date": "2018-12-24 13:00:00 +0100",
     
 
 
@@ -1070,7 +1100,7 @@
     "url": "/posts/Ghost-Ship/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-12-19 12:00:00 +0000",
+    "date": "2018-12-19 13:00:00 +0100",
     
 
 
@@ -1085,7 +1115,7 @@
     "url": "/posts/LagerBlonde/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-06-17 12:00:00 +0000",
+    "date": "2018-06-17 13:00:00 +0100",
     
 
 
@@ -1100,7 +1130,7 @@
     "url": "/posts/Kronenbourg/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-05-27 12:00:00 +0000",
+    "date": "2018-05-27 13:00:00 +0100",
     
 
 
@@ -1115,7 +1145,7 @@
     "url": "/posts/JeverFun/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-05-18 12:00:00 +0000",
+    "date": "2018-05-18 13:00:00 +0100",
     
 
 
@@ -1130,7 +1160,7 @@
     "url": "/posts/Veltins/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-04-13 12:00:00 +0000",
+    "date": "2018-04-13 13:00:00 +0100",
     
 
 
@@ -1145,7 +1175,7 @@
     "url": "/posts/FruhKolsch/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-02-17 12:00:00 +0000",
+    "date": "2018-02-17 13:00:00 +0100",
     
 
 
@@ -1160,7 +1190,7 @@
     "url": "/posts/Budweiser/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-02-16 12:00:00 +0000",
+    "date": "2018-02-16 13:00:00 +0100",
     
 
 
@@ -1175,7 +1205,7 @@
     "url": "/posts/SchenigerWeisse/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2018-01-13 12:00:00 +0000",
+    "date": "2018-01-13 13:00:00 +0100",
     
 
 
@@ -1190,7 +1220,7 @@
     "url": "/posts/BudweiserBudvar/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-12-08 12:00:00 +0000",
+    "date": "2017-12-08 13:00:00 +0100",
     
 
 
@@ -1205,7 +1235,7 @@
     "url": "/posts/StPeters/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-09-23 12:00:00 +0000",
+    "date": "2017-09-23 13:00:00 +0100",
     
 
 
@@ -1220,7 +1250,7 @@
     "url": "/posts/Prestige/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-06-03 12:00:00 +0000",
+    "date": "2017-06-03 13:00:00 +0100",
     
 
 
@@ -1235,7 +1265,7 @@
     "url": "/posts/Heineken/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-05-25 12:00:00 +0000",
+    "date": "2017-05-25 13:00:00 +0100",
     
 
 
@@ -1250,7 +1280,7 @@
     "url": "/posts/Franziskaner/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-05-15 12:00:00 +0000",
+    "date": "2017-05-15 13:00:00 +0100",
     
 
 
@@ -1265,7 +1295,7 @@
     "url": "/posts/InnisNone/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-05-13 12:00:00 +0000",
+    "date": "2017-05-13 13:00:00 +0100",
     
 
 
@@ -1280,7 +1310,7 @@
     "url": "/posts/Erdinger/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-05-01 12:00:00 +0000",
+    "date": "2017-05-01 13:00:00 +0100",
     
 
 
@@ -1295,7 +1325,7 @@
     "url": "/posts/Carlsberg/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-04-22 12:00:00 +0000",
+    "date": "2017-04-22 13:00:00 +0100",
     
 
 
@@ -1310,7 +1340,7 @@
     "url": "/posts/BecksLemon/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-04-17 12:00:00 +0000",
+    "date": "2017-04-17 13:00:00 +0100",
     
 
 
@@ -1325,7 +1355,7 @@
     "url": "/posts/BrewdogNanny/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2017-01-28 12:00:00 +0000",
+    "date": "2017-01-28 13:00:00 +0100",
     
 
 
@@ -1340,7 +1370,7 @@
     "url": "/posts/Feldschlosschen/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-06-03 12:00:00 +0000",
+    "date": "2016-06-03 13:00:00 +0100",
     
 
 
@@ -1355,7 +1385,7 @@
     "url": "/posts/Paulaner/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-06-02 12:00:00 +0000",
+    "date": "2016-06-02 13:00:00 +0100",
     
 
 
@@ -1370,7 +1400,7 @@
     "url": "/posts/Bitburger/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-05-29 12:00:00 +0000",
+    "date": "2016-05-29 13:00:00 +0100",
     
 
 
@@ -1385,7 +1415,7 @@
     "url": "/posts/BirraMoretti/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-05-29 12:00:00 +0000",
+    "date": "2016-05-29 13:00:00 +0100",
     
 
 
@@ -1400,7 +1430,7 @@
     "url": "/posts/1664/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-03-28 12:00:00 +0000",
+    "date": "2016-03-28 13:00:00 +0100",
     
 
 
@@ -1415,7 +1445,7 @@
     "url": "/posts/Buckler/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2016-03-27 12:00:00 +0000",
+    "date": "2016-03-27 13:00:00 +0100",
     
 
 
@@ -1430,7 +1460,7 @@
     "url": "/posts/WieckseRose/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2015-05-27 12:00:00 +0000",
+    "date": "2015-05-27 13:00:00 +0100",
     
 
 
@@ -1445,7 +1475,7 @@
     "url": "/posts/AmstelBier/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2015-05-27 12:00:00 +0000",
+    "date": "2015-05-27 13:00:00 +0100",
     
 
 
@@ -1460,7 +1490,7 @@
     "url": "/posts/WieckseRadler/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2015-05-26 12:00:00 +0000",
+    "date": "2015-05-26 13:00:00 +0100",
     
 
 
@@ -1475,7 +1505,7 @@
     "url": "/posts/AmstelRadlerGrapefruit/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2015-05-26 12:00:00 +0000",
+    "date": "2015-05-26 13:00:00 +0100",
     
 
 
@@ -1490,7 +1520,7 @@
     "url": "/posts/Jupiler/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2015-05-25 12:00:00 +0000",
+    "date": "2015-05-25 13:00:00 +0100",
     
 
 
@@ -1505,7 +1535,7 @@
     "url": "/posts/SanMiguelManzana/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2014-05-12 12:00:00 +0000",
+    "date": "2014-05-12 13:00:00 +0100",
     
 
 
@@ -1520,7 +1550,7 @@
     "url": "/posts/SanMiguel/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2014-05-12 12:00:00 +0000",
+    "date": "2014-05-12 13:00:00 +0100",
     
 
 
@@ -1535,7 +1565,7 @@
     "url": "/posts/BavariaWit/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2013-09-01 12:00:00 +0000",
+    "date": "2013-09-01 13:00:00 +0100",
     
 
 
@@ -1550,7 +1580,7 @@
     "url": "/posts/BavariaPrem/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2013-08-22 12:00:00 +0000",
+    "date": "2013-08-22 13:00:00 +0100",
     
 
 
@@ -1565,7 +1595,7 @@
     "url": "/posts/Holsten/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2013-05-18 12:00:00 +0000",
+    "date": "2013-05-18 13:00:00 +0100",
     
 
 
@@ -1580,7 +1610,7 @@
     "url": "/posts/BecksBlue/",
     "categories": "Non-Alcoholic Beers",
     "tags": "beers",
-    "date": "2007-09-14 12:00:00 +0000",
+    "date": "2007-09-14 13:00:00 +0100",
     
 
 
