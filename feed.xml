@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-01T21:52:21+01:00</updated>
+  <updated>2022-04-01T21:55:22+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -28,7 +28,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <updated>2022-04-01T21:41:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/New/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/New/ " />
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -105,7 +104,6 @@ Follow my Non-Alcoholic Beer Journey
     <updated>2022-03-30T21:04:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Toast/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Toast/ " />
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -176,7 +174,6 @@ Follow my Non-Alcoholic Beer Journey
     <updated>2022-03-30T21:04:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Shorebreak/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " />
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -245,7 +242,6 @@ Follow my Non-Alcoholic Beer Journey
     <updated>2022-03-20T09:45:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " />
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -319,7 +315,6 @@ G...
     <updated>2022-02-19T22:05:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/LOAH/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/LOAH/ " />
       <author>
       <name>Andrew Boorman</name>
     </author>
