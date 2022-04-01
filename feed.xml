@@ -4,7 +4,7 @@
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-03-31T22:52:30+01:00</updated>
+  <updated>2022-04-01T18:36:15+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -31,7 +31,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
-     <description>https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg</description>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg"/>
 
   
     
@@ -100,7 +100,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
-     <description>https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg</description>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg"/>
 
   
     
@@ -167,7 +167,7 @@
     <author>
       <name>Andrew Boorman</name>
     </author>
-     <description>https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg</description>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg"/>
 
   
     
@@ -239,7 +239,7 @@ G...
     <author>
       <name>Andrew Boorman</name>
     </author>
-     <description>https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg</description>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg"/>
 
   
     
@@ -310,7 +310,7 @@ G...
     <author>
       <name>Andrew Boorman</name>
     </author>
-     <description>https://www.anxiousaccountant.co.uk/assets/img/beers/LagerDaySaints.jpg</description>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LagerDaySaints.jpg"/>
 
   
     
