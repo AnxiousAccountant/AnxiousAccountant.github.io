@@ -1,10 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-01T19:14:39+01:00</updated>
+  <updated>2022-04-01T20:48:38+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -20,55 +21,18 @@
 
   
   <entry>
-    <title>Test1 copy</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Test1-copy/ " rel="alternate" type="text/html" title="Test1 copy" />
-    <published>2022-04-01T19:01:00+01:00</published>
-  
-    <updated>2021-04-01T19:02:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Test1-copy/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Test1-copy/ " />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-    <imageurl>"https://www.anxiousaccountant.co.uk/assets/img/locked.jpg"</imageurl>
-
-  
-    
-    <category term="Anxious Accountant" />
-    
-    <category term="New Website" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
     <title>Test</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Test1/ " rel="alternate" type="text/html" title="Test" />
-    <published>2022-04-01T18:01:00+01:00</published>
+    <link href="https://www.anxiousaccountant.co.uk/posts/TestingA/ " rel="alternate" type="text/html" title="Test" />
+    <published>2022-04-01T20:31:00+01:00</published>
   
-    <updated>2021-04-01T18:02:00+01:00</updated>
+    <updated>2021-04-01T20:32:00+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/Test1/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Test1/ " />
+    <id>https://www.anxiousaccountant.co.uk/posts/TestingA/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/TestingA/ " />
+    <content:encoded><![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/locked.jpg" />]]></content:encoded>
     <author>
       <name>Andrew Boorman</name>
     </author>
-    <imageurl>"https://www.anxiousaccountant.co.uk/assets/img/locked.jpg"</imageurl>
 
   
     
@@ -102,10 +66,10 @@
   
     <id>https://www.anxiousaccountant.co.uk/posts/Toast/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/Toast/ " />
+    <content:encoded><![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]></content:encoded>
     <author>
       <name>Andrew Boorman</name>
     </author>
-    <imageurl>"https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg"</imageurl>
 
   
     
@@ -171,10 +135,10 @@
   
     <id>https://www.anxiousaccountant.co.uk/posts/Shorebreak/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " />
+    <content:encoded><![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />]]></content:encoded>
     <author>
       <name>Andrew Boorman</name>
     </author>
-    <imageurl>"https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg"</imageurl>
 
   
     
@@ -238,10 +202,10 @@
   
     <id>https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ </id>
     <content src="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " />
+    <content:encoded><![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />]]></content:encoded>
     <author>
       <name>Andrew Boorman</name>
     </author>
-    <imageurl>"https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg"</imageurl>
 
   
     
@@ -295,6 +259,77 @@
 
 
 G...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>LO AH</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/LOAH/ " rel="alternate" type="text/html" title="LO AH" />
+    <published>2022-02-19T20:00:00+01:00</published>
+  
+    <updated>2022-02-19T22:05:00+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/LOAH/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/LOAH/ " />
+    <content:encoded><![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />]]></content:encoded>
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      LO AH
+    
+    
+      Country
+      UK
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      oats, wheat, barley, hops, water, yeast, natural lime flavouring, citric extract.
+    
+    
+      Released
+      2020
+    
+    
+      My First Taste
+      19 February 2022
+    
+    
+      My Rating
+      7/10
+    
+    
+      Website
+      https://loah.beer/
+    
+  
+
+...
     </summary>
   
 
