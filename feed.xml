@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-01T21:42:54+01:00</updated>
+  <updated>2022-04-01T21:49:37+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -32,7 +32,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <author>
       <name>Andrew Boorman</name>
     </author>
-    <item>... <content:encoded>
+    <item><content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
           </content:encoded> 
 </item>
@@ -109,7 +109,7 @@ Follow my Non-Alcoholic Beer Journey
       <author>
       <name>Andrew Boorman</name>
     </author>
-    <item>... <content:encoded>
+    <item><content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
           </content:encoded> 
 </item>
@@ -180,7 +180,7 @@ Follow my Non-Alcoholic Beer Journey
       <author>
       <name>Andrew Boorman</name>
     </author>
-    <item>... <content:encoded>
+    <item><content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />]]>
           </content:encoded> 
 </item>
@@ -249,7 +249,7 @@ Follow my Non-Alcoholic Beer Journey
       <author>
       <name>Andrew Boorman</name>
     </author>
-    <item>... <content:encoded>
+    <item><content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />]]>
           </content:encoded> 
 </item>
@@ -323,7 +323,7 @@ G...
       <author>
       <name>Andrew Boorman</name>
     </author>
-    <item>... <content:encoded>
+    <item><content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />]]>
           </content:encoded> 
 </item>
