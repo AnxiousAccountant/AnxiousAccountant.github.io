@@ -1,10 +1,11 @@
 
 
-<feed xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-01T21:27:14+01:00</updated>
+  <updated>2022-04-01T21:42:54+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -20,6 +21,83 @@
 
   
   <entry>
+    <title>New beer coming soon</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/New/ " rel="alternate" type="text/html" title="New beer coming soon" />
+    <published>2022-04-01T21:41:00+01:00</published>
+  
+    <updated>2022-04-01T21:41:00+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/New/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/New/ " />
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+    <item>... <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      New beer coming soon
+    
+    
+      Country
+       
+    
+    
+      ABV
+      0.0%
+    
+    
+      Ingredients
+       
+    
+    
+      Released
+       
+    
+    
+      My First Taste
+      XX XXX 2022
+    
+    
+      My Rating
+       
+    
+    
+      Website
+      
+    
+  
+
+
+Get £10 off your first order at HonestBrew
+
+Follow my Non-Alcoholic Beer Journey
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Toast</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/Toast/ " rel="alternate" type="text/html" title="Toast" />
     <published>2022-03-30T20:00:00+01:00</published>
@@ -31,7 +109,10 @@
       <author>
       <name>Andrew Boorman</name>
     </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg"/>
+    <item>... <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
+          </content:encoded> 
+</item>
   
     
     <category term="Non-Alcoholic Beers" />
@@ -85,72 +166,7 @@
   
 
   </entry>
-<entry>
-    <title>ToastTest</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Toast/ " rel="alternate" type="text/html" title="Toast" />
-    <published>2022-03-30T20:32:00+01:00</published>
-  
-    <updated>2022-03-30T20:32:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Toast/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/Toast/ " />
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg"/>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
 
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Toast
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      water, malted barley, surplus bread, lemongrass
-    
-    
-      Released
-      2022
-    
-    
-      My First Taste
-      30 Mar 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://www.toastale.com/item/118/toastale/Low-Alc-Lager.html
-    
-...
-    </summary>
-  
-
-  </entry>
   
   <entry>
     <title>Firebrand Brewery Shorebreak</title>
@@ -164,7 +180,10 @@
       <author>
       <name>Andrew Boorman</name>
     </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg"/>
+    <item>... <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />]]>
+          </content:encoded> 
+</item>
   
     
     <category term="Non-Alcoholic Beers" />
@@ -230,7 +249,10 @@
       <author>
       <name>Andrew Boorman</name>
     </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg"/>
+    <item>... <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />]]>
+          </content:encoded> 
+</item>
   
     
     <category term="Non-Alcoholic Beers" />
@@ -301,7 +323,10 @@ G...
       <author>
       <name>Andrew Boorman</name>
     </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg"/>
+    <item>... <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />]]>
+          </content:encoded> 
+</item>
   
     
     <category term="Non-Alcoholic Beers" />
@@ -358,75 +383,6 @@ G...
 
   </entry>
 
-  
-  <entry>
-    <title>Lager Day Saints</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " rel="alternate" type="text/html" title="Lager Day Saints" />
-    <published>2022-02-19T19:00:00+01:00</published>
-  
-    <updated>2022-02-19T22:00:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " />
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-<media:content medium="image" url="https://www.anxiousaccountant.co.uk/assets/img/beers/LagerDaySaints.jpg"/>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Lager Day Saints
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Barley, Maltodextrin, Hops, Yeast
-    
-    
-      Released
-      2021
-    
-    
-      My First Taste
-      19 February 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://siwcbrewery.com/products/lager-day-saints
-    
-  
-...
-    </summary>
-  
-
-  </entry>
-
-</feed>
+</rss>
 
 
