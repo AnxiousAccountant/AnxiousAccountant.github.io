@@ -4,7 +4,7 @@
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-01T18:36:15+01:00</updated>
+  <updated>2022-04-01T18:45:13+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -17,6 +17,43 @@
   <icon>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon.ico</icon>
   <logo>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Test/ " rel="alternate" type="text/html" title="Test" />
+    <published>2022-04-01T18:01:00+01:00</published>
+  
+    <updated>2021-04-01T18:02:00+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Test/ </id>
+    <content src="https://www.anxiousaccountant.co.uk/posts/Test/ " />
+    <author>
+      <name>Andrew Boorman</name>
+    </author>
+    <img src="https://www.anxiousaccountant.co.uk/assets/img/locked.jpg"/>
+
+  
+    
+    <category term="Anxious Accountant" />
+    
+    <category term="New Website" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      On the 12th of November I received an email from Blogger saying my blog was removed as someone had reported it for spam, this was shortly after a posted 4 reviews of non alcoholic beers, 2 of which I scored low. Maybe just a coincidence? I requested a review from Blogger but this was unsuccessful. Blogger is a free blogging tool from google and I am unable to contact them to find out exactly wh...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -291,76 +328,6 @@ G...
     
   
 
-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Lager Day Saints</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " rel="alternate" type="text/html" title="Lager Day Saints" />
-    <published>2022-02-19T19:00:00+01:00</published>
-  
-    <updated>2022-02-19T22:00:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ </id>
-    <content src="https://www.anxiousaccountant.co.uk/posts/LagerDaySaints/ " />
-    <author>
-      <name>Andrew Boorman</name>
-    </author>
-    <img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LagerDaySaints.jpg"/>
-
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Lager Day Saints
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      Water, Barley, Maltodextrin, Hops, Yeast
-    
-    
-      Released
-      2021
-    
-    
-      My First Taste
-      19 February 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://siwcbrewery.com/products/lager-day-saints
-    
-  
 ...
     </summary>
   
