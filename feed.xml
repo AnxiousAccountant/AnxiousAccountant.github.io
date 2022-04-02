@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-02T20:32:21+01:00</updated>
+  <updated>2022-04-02T20:36:07+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -24,7 +24,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <title>Nogne Stripped Craft</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/Nogne/ " rel="alternate" type="text/html" title="Nogne Stripped Craft" />
     <published>2022-04-01T21:41:00+01:00</published>
-    <item>... <content:encoded>
+    <item>
+    <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Nogne.jpg" />]]>
           </content:encoded> 
 </item>
@@ -97,7 +98,8 @@ Get...
     <title>Toast</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/Toast/ " rel="alternate" type="text/html" title="Toast" />
     <published>2022-03-30T20:00:00+01:00</published>
-    <item>... <content:encoded>
+    <item>
+    <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
           </content:encoded> 
 </item>
@@ -167,7 +169,8 @@ Get...
     <title>Firebrand Brewery Shorebreak</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " rel="alternate" type="text/html" title="Firebrand Brewery Shorebreak" />
     <published>2022-03-26T21:00:00+01:00</published>
-    <item>... <content:encoded>
+    <item>
+    <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />]]>
           </content:encoded> 
 </item>
@@ -235,7 +238,8 @@ Get...
     <title>Big Drop Coba Maya</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " rel="alternate" type="text/html" title="Big Drop Coba Maya" />
     <published>2022-03-19T20:00:00+01:00</published>
-    <item>... <content:encoded>
+    <item>
+    <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />]]>
           </content:encoded> 
 </item>
@@ -308,7 +312,8 @@ G...
     <title>LO AH</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/LOAH/ " rel="alternate" type="text/html" title="LO AH" />
     <published>2022-02-19T20:00:00+01:00</published>
-    <item>... <content:encoded>
+    <item>
+    <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />]]>
           </content:encoded> 
 </item>
