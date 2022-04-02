@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-02T19:48:30+01:00</updated>
+  <updated>2022-04-02T20:13:28+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,11 +21,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
-    <title>New beer coming soon</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Nogne/ " rel="alternate" type="text/html" title="New beer coming soon" />
+    <title>Nogne Stripped Craft</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Nogne/ " rel="alternate" type="text/html" title="Nogne Stripped Craft" />
     <published>2022-04-01T21:41:00+01:00</published>
   
-    <updated>2022-04-01T21:41:00+01:00</updated>
+    <updated>2022-04-02T19:04:00+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Nogne/ </id>
       <author>
@@ -50,11 +50,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
     
       Name
-      New beer coming soon
+      Nogne Stripped Craft
     
     
       Country
-       
+      Norway
     
     
       ABV
@@ -62,31 +62,28 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     
     
       Ingredients
-       
+      water, barley malt, wheat malt, hops, yeast, lime
     
     
       Released
-       
+      TBC
     
     
       My First Taste
-      XX XXX 2022
+      01 Apr 2022
     
     
       My Rating
-       
+      9/10
     
     
       Website
-      
+      https://www.nogne-o.com/our-beers
     
   
 
 
-Get £10 off your first order at HonestBrew
-
-Follow my Non-Alcoholic Beer Journey
-
+Get...
     </summary>
   
 
