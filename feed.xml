@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-04-25T20:05:09+01:00</updated>
+  <updated>2022-04-25T22:03:36+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,18 +21,18 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
-    <title>Nogne Stripped Craft</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Nogne/ " rel="alternate" type="text/html" title="Nogne Stripped Craft" />
-    <published>2022-04-01T21:41:00+01:00</published>
+    <title>Freeky APA</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Freekey/ " rel="alternate" type="text/html" title="Freeky APA" />
+    <published>2022-04-24T13:00:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Nogne.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Freeky.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-04-02T19:04:00+01:00</updated>
+    <updated>2022-04-25T22:56:41+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/Nogne/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Freekey/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -54,11 +54,228 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
     
       Name
-      Nogne Stripped Craft
+      Freeky APA
     
     
       Country
-      Norway
+      Poland
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, Barley Malts, Hops, Yeast
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      24 Apr 2022
+    
+    
+      My Rating
+      5/10
+    
+    
+      Website
+      http://www.browarmaryensztadt.pl/beers
+    
+  
+
+
+Get £10 off your firs...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Implosion</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Implosion/ " rel="alternate" type="text/html" title="Implosion" />
+    <published>2022-04-23T13:00:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Implosion.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-04-25T22:46:18+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Implosion/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Implosion
+    
+    
+      Country
+      Denmark
+    
+    
+      ABV
+      0.3%
+    
+    
+      Ingredients
+      Water, barley, wheat, hops, yeast
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      23 Apr 2022
+    
+    
+      My Rating
+      5/10
+    
+    
+      Website
+      https://toolbeer.dk/products/implosion
+    
+  
+
+
+Get £10 off your fir...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Superbock Free</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Superbock/ " rel="alternate" type="text/html" title="Superbock Free" />
+    <published>2022-04-19T13:00:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/SuperBock.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-04-25T20:40:17+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Superbock/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Superbock Free
+    
+    
+      Country
+      Portugal
+    
+    
+      ABV
+      0.5%
+    
+    
+      Ingredients
+      Water, barley malt, unmalted cereals (maize and barley) ,flavours, hops.
+    
+    
+      Released
+      Unknown
+    
+    
+      My First Taste
+      19 Apr 2022
+    
+    
+      My Rating
+      5/10
+    
+    
+      Website
+      https://www.superbockgro...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Affligem</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Affligem/ " rel="alternate" type="text/html" title="Affligem" />
+    <published>2022-04-15T13:00:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Affligem.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-04-25T22:39:42+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Affligem/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    
+      Name
+      Affligem
+    
+    
+      Country
+      Belgium
     
     
       ABV
@@ -66,160 +283,15 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     
     
       Ingredients
-      water, barley malt, wheat malt, hops, yeast, lime
+      Water, malted barley , glucose syrup, sugar, natural flavours, hop, hop extract.
     
     
       Released
-      TBC
+      Unknown
     
     
       My First Taste
-      01 Apr 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://www.nogne-o.com/our-beers
-    
-  
-
-
-Get...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Toast</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Toast/ " rel="alternate" type="text/html" title="Toast" />
-    <published>2022-03-30T20:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Toast.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-03-30T21:04:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Toast/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Toast
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      water, malted barley, surplus bread, lemongrass
-    
-    
-      Released
-      2022
-    
-    
-      My First Taste
-      30 Mar 2022
-    
-    
-      My Rating
-      9/10
-    
-    
-      Website
-      https://www.toastale.com/item/118/toastale/Low-Alc-Lager.html
-    
-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Firebrand Brewery Shorebreak</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Shorebreak/ " rel="alternate" type="text/html" title="Firebrand Brewery Shorebreak" />
-    <published>2022-03-26T21:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Shorebreak.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-03-30T21:04:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Shorebreak/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      Firebrand Brewery Shorebreak
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      water, malt, hops, barley, wheat, oats
-    
-    
-      Released
-      2022
-    
-    
-      My First Taste
-      26 Mar 2022
+      15 Apr 2022
     
     
       My Rating
@@ -227,7 +299,7 @@ Get...
     
     
       Website
-      https://firebrandbrewing.co.uk/collections/core/produ...
+      https://www.affligembee...
     </summary>
   
 
@@ -235,18 +307,18 @@ Get...
 
   
   <entry>
-    <title>Big Drop Coba Maya</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ " rel="alternate" type="text/html" title="Big Drop Coba Maya" />
-    <published>2022-03-19T20:00:00+01:00</published>
+    <title>St Peters Without organic</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/StPetersOrganic/ " rel="alternate" type="text/html" title="St Peters Without organic" />
+    <published>2022-04-02T13:00:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/BigDropCobaMaya.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/StPeterOrganic.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-03-20T09:45:00+01:00</updated>
+    <updated>2022-04-25T20:41:27+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/BigDropCobaMaya/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/StPetersOrganic/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -268,7 +340,7 @@ Get...
   
     
       Name
-      Big Drop Coba Maya
+      St Peters Without organic
     
     
       Country
@@ -276,105 +348,27 @@ Get...
     
     
       ABV
-      0.5%
+      0.0%
     
     
       Ingredients
-      water, barley, lactose, oats, rice, hops, yeast
+      Water, Malted Barley, Malted Wheat, Carbon Dioxide, Hop Extract, Natural Flavour
     
     
       Released
-       
+      Unknown
     
     
       My First Taste
-      19 Mar 2022
+      02 Apr 2022
     
     
       My Rating
-      8/10
+      6.5/10
     
     
       Website
-      https://www.bigdropbrew.com/drinks/coba-maya/
-    
-  
-
-
-G...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>LO AH</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/LOAH/ " rel="alternate" type="text/html" title="LO AH" />
-    <published>2022-02-19T20:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LOAH.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-02-19T22:05:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/LOAH/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Name
-      LO AH
-    
-    
-      Country
-      UK
-    
-    
-      ABV
-      0.5%
-    
-    
-      Ingredients
-      oats, wheat, barley, hops, water, yeast, natural lime flavouring, citric extract.
-    
-    
-      Released
-      2020
-    
-    
-      My First Taste
-      19 February 2022
-    
-    
-      My Rating
-      7/10
-    
-    
-      Website
-      https://loah.beer/
-    
-  
-
-...
+      https://w...
     </summary>
   
 
