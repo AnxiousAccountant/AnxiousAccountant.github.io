@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-06-06T22:23:26+01:00</updated>
+  <updated>2022-06-07T21:32:45+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,6 +21,48 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
+    <title>Fentimans Lemon Shandy</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Fentimans/ " rel="alternate" type="text/html" title="Fentimans Lemon Shandy" />
+    <published>2022-06-07T20:59:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Fentimans.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-06-07T21:11:15+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Fentimans/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 24 (out of 100) / Rank: 106th (out of 115 beers) / Spotted this one at my local farm shop and didn’t realise until I got home that it was 0.5% ABV. So adding it to the list
+
+It was very much a soft drink and was very sweet, with a very light bitterness in the after taste. Not helped as England conceded to Germany as I drank this
+
+Not really going to trouble the scorers but reminded me o...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Clear Head</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/ClearHead/ " rel="alternate" type="text/html" title="Clear Head" />
     <published>2022-06-02T20:04:00+01:00</published>
@@ -30,7 +72,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
           </content:encoded> 
 </item>
   
-    <updated>2022-06-02T20:04:00+01:00</updated>
+    <updated>2022-06-05T15:10:49+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/ClearHead/ </id>
       <author>
@@ -51,7 +93,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
       
-Score: 89 (out of 100) / Rank: 4th (out of 114 beers) / The first mental health beer where the proceeds go towards Talk Club which is a talking and listening movement to help people get mentally fit.
+Score: 89 (out of 100) / Rank: 4th (out of 115 beers) / The first mental health beer where the proceeds go towards Talk Club which is a talking and listening movement to help people get mentally fit.
 
 This one poured with a vibrant colour and a small head, the taste was smooth with a nice bitter aftertaste, it went down really well.
 
@@ -86,7 +128,7 @@ Check ...
           </content:encoded> 
 </item>
   
-    <updated>2022-06-01T21:31:00+01:00</updated>
+    <updated>2022-06-05T15:09:49+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Ambar/ </id>
       <author>
@@ -107,7 +149,7 @@ Check ...
 
 
       
-Score: 40 (out of 100) / Rank: 79th (out of 114 beers) / This one poured with very little head but I couldn’t pick up anything in the smell.
+Score: 40 (out of 100) / Rank: 79th (out of 115 beers) / This one poured with very little head but I couldn’t pick up anything in the smell.
 
 There wasn’t really much in the taste apart from a slight bitter aftertaste.
 
@@ -142,7 +184,7 @@ Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey
           </content:encoded> 
 </item>
   
-    <updated>2022-05-30T17:48:00+01:00</updated>
+    <updated>2022-06-05T15:07:49+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/IntotheMountains/ </id>
       <author>
@@ -163,7 +205,7 @@ Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey
 
 
       
-Score: 65 (out of 100) / Rank: 34th (out of 114 beers) / I had this one after I got home from a walk which had the toughest climb I had done for a while and needed to take my mind off my achy legs. Not quite into a mountain!
+Score: 65 (out of 100) / Rank: 34th (out of 115 beers) / I had this one after I got home from a walk which had the toughest climb I had done for a while and needed to take my mind off my achy legs. Not quite into a mountain!
 
 My first beer from South Africa and it poured with a lively head and a strong fruity smell. The taste was refreshing with a slight bitterness.
 
@@ -184,7 +226,7 @@ It went down really well a...
           </content:encoded> 
 </item>
   
-    <updated>2022-06-05T15:08:49+01:00</updated>
+    <updated>2022-06-05T15:06:49+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/SmashedCitrus/ </id>
       <author>
@@ -205,53 +247,11 @@ It went down really well a...
 
 
       
-Score: 69 (out of 100) / Rank: 24th (out of 114 beers) / So another fruity beer on the list and this one in the Smashed range where
+Score: 69 (out of 100) / Rank: 24th (out of 115 beers) / So another fruity beer on the list and this one in the Smashed range where
 
 This one poured will a healthy fizz but I couldn’t pick up any citrus in the smell. The taste reminded me of a lager and lime from the Coop as a kid.
 
 Now its unusal but a fruity beer is pipping the other two in my Drynks Unlimited rankings and is certainly one t...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Very Small Moose</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/VerySmallMouse/ " rel="alternate" type="text/html" title="Very Small Moose" />
-    <published>2022-05-28T21:09:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/VerySmallMoose.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-05T15:08:49+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/VerySmallMouse/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 44 (out of 100) / Rank: 72nd (out of 114 beers) / Now I was a little nervous trying this one as the previous stout. This one poured very dark and the smell of chocolate was strong
-
-Now luckily this one didn’t have the coffee taste and I got the taste of fizzy chocolate which took a while to get used to but as it settled the aftertaste was nice and smooth.
-
-Not my usual go to taste but a...
     </summary>
   
 
