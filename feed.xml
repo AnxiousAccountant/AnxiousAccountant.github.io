@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-06-07T22:59:47+01:00</updated>
+  <updated>2022-06-09T21:52:43+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -18,6 +18,62 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <icon>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon.ico</icon>
   <logo>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Limbo Series - Raspberry</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Limbo/ " rel="alternate" type="text/html" title="Limbo Series - Raspberry" />
+    <published>2022-06-09T21:03:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Limbo.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-06-09T21:40:14+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Limbo/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 71 (out of 100) / Rank: 22nd (out of 116 beers) / Another drink after gardening and another fruit beer, this one poured with a strong raspberry smell.
+
+The raspberry came strongly in the taste with a twist of sour hoppy bitterness which worked
+
+This id my favourite sour / fruit beer so far.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey) or...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -51,7 +107,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
       
-Score: 26 (out of 100) / Rank: 107th (out of 115 beers) / Spotted this one at my local farm shop and didn’t realise until I got home that it was 0.5% ABV. So adding it to the list
+Score: 27 (out of 100) / Rank: 108th (out of 116 beers) / Spotted this one at my local farm shop and didn’t realise until I got home that it was 0.5% ABV. So adding it to the list
 
 It was very much a soft drink and was very sweet, with a very light bitterness in the after taste. Not helped as England conceded to Germany as I drank this
 
@@ -93,7 +149,7 @@ Not really going to trouble the scorers but reminded me o...
 
 
       
-Score: 90 (out of 100) / Rank: 2nd (out of 115 beers) / The first mental health beer where the proceeds go towards Talk Club which is a talking and listening movement to help people get mentally fit.
+Score: 90 (out of 100) / Rank: 2nd (out of 116 beers) / The first mental health beer where the proceeds go towards Talk Club which is a talking and listening movement to help people get mentally fit.
 
 This one poured with a vibrant colour and a small head, the taste was smooth with a nice bitter aftertaste, it went down really well.
 
@@ -149,7 +205,7 @@ Check ...
 
 
       
-Score: 43 (out of 100) / Rank: 79th (out of 115 beers) / This one poured with very little head but I couldn’t pick up anything in the smell.
+Score: 43 (out of 100) / Rank: 80th (out of 116 beers) / This one poured with very little head but I couldn’t pick up anything in the smell.
 
 There wasn’t really much in the taste apart from a slight bitter aftertaste.
 
@@ -205,53 +261,11 @@ Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey
 
 
       
-Score: 66 (out of 100) / Rank: 35th (out of 115 beers) / I had this one after I got home from a walk which had the toughest climb I had done for a while and needed to take my mind off my achy legs. Not quite into a mountain!
+Score: 66 (out of 100) / Rank: 36th (out of 116 beers) / I had this one after I got home from a walk which had the toughest climb I had done for a while and needed to take my mind off my achy legs. Not quite into a mountain!
 
 My first beer from South Africa and it poured with a lively head and a strong fruity smell. The taste was refreshing with a slight bitterness.
 
 It went down really well a...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Smashed Citrus</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/SmashedCitrus/ " rel="alternate" type="text/html" title="Smashed Citrus" />
-    <published>2022-05-29T22:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/SmashedCitrus.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-05T15:06:49+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/SmashedCitrus/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 71 (out of 100) / Rank: 22nd (out of 115 beers) / So another fruity beer on the list and this one in the Smashed range where
-
-This one poured will a healthy fizz but I couldn’t pick up any citrus in the smell. The taste reminded me of a lager and lime from the Coop as a kid.
-
-Now its unusal but a fruity beer is pipping the other two in my Drynks Unlimited rankings and is certainly one t...
     </summary>
   
 
