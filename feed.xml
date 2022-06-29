@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-06-20T21:18:52+01:00</updated>
+  <updated>2022-06-29T21:29:35+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,16 +21,58 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
+    <title>Lemon Gose</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/LemonGose/ " rel="alternate" type="text/html" title="Lemon Gose" />
+    <published>2022-06-29T21:20:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LemonGose.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-06-29T21:20:32+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/LemonGose/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 62 (out of 100) / Rank: 48th (out of 121 beers) / A risky choice to try a new beer whilst my hayfever is bad but I have too many new beers to get through as I haven’t got through last month’s Afbeer club yet!
+
+I couldn’t pick up anyhting in the smell but the taste came across as a tangy and refreshing with a mild aftertaste.
+
+10% of all proceeds from this limited edition beer will go st...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Point Five</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/PointFive/ " rel="alternate" type="text/html" title="Point Five" />
-    <published>2022-06-20T20:48:00+01:00</published>
+    <published>2022-06-20T21:48:00+01:00</published>
     <item>
     <content:encoded>
     <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/PointFive.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-06-20T21:07:29+01:00</updated>
+    <updated>2022-06-20T22:05:14+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/PointFive/ </id>
       <author>
@@ -51,7 +93,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
       
-Score: 45 (out of 100) / Rank: 78th (out of 120 beers) / Probably the loudest beer I have had with a very bubbly head which didn’t settle for a long time.
+Score: 45 (out of 100) / Rank: 79th (out of 121 beers) / Probably the loudest beer I have had with a very bubbly head which didn’t settle for a long time.
 
 The taste improved as it finally settled and did have a nice bitter aftertaste, so not really looking to trouble the scorers.
 
@@ -107,7 +149,7 @@ Full details on Po...
 
 
       
-Score: 22 (out of 100) / Rank: 114th (out of 120 beers) / Another Beer trying to cool down and this one was a lively little number.
+Score: 22 (out of 100) / Rank: 115th (out of 121 beers) / Another Beer trying to cool down and this one was a lively little number.
 
 No real smell but there was a strong sourness up front which didn’t sit well, almost soapy.
 
@@ -163,7 +205,7 @@ Check out how I rank all the beers I have tried on m...
 
 
       
-Score: 53 (out of 100) / Rank: 66th (out of 120 beers) / Another milkstout and this one has a coffee smell and was dark as expected.
+Score: 53 (out of 100) / Rank: 68th (out of 121 beers) / Another milkstout and this one has a coffee smell and was dark as expected.
 
 I’ve had Mixed experiences with these stouts but this one was not like a cold coffee, Instead it had a nica matty taste and a strong but pleasant after taste.
 
@@ -219,71 +261,13 @@ Check out ho...
 
 
       
-Score: 71 (out of 100) / Rank: 22nd (out of 120 beers) / Hottest day of the year so far very and a cold beer was in order, this one was fizzy and my son sometimes has a sip of my beers and he said he doesn’t like beer but this is his favorite so far.
+Score: 71 (out of 100) / Rank: 22nd (out of 121 beers) / Hottest day of the year so far very and a cold beer was in order, this one was fizzy and my son sometimes has a sip of my beers and he said he doesn’t like beer but this is his favorite so far.
 
 Perfect for a hot day after the working week!
 
 It had a fruity smell and a clear and crisp taste with a nice bitter aftertaste.
 
 Perfect for a h...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Limbo Series - Raspberry</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Limbo/ " rel="alternate" type="text/html" title="Limbo Series - Raspberry" />
-    <published>2022-06-09T22:03:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Limbo.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-09T22:40:00+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/Limbo/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 71 (out of 100) / Rank: 23rd (out of 120 beers) / Another drink after gardening and another fruit beer, this one poured with a strong raspberry smell.
-
-The raspberry came strongly in the taste with a twist of sour hoppy bitterness which worked
-
-This is my favourite sour / fruit beer so far.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey)
-
-F...
     </summary>
   
 
