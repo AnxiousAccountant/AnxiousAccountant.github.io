@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-07-02T21:39:11+01:00</updated>
+  <updated>2022-07-10T18:18:22+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,18 +21,18 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
-    <title>Stoop</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Stoop/ " rel="alternate" type="text/html" title="Stoop" />
-    <published>2022-07-02T21:00:00+01:00</published>
+    <title>Elderflower Lager</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Elderflower/ " rel="alternate" type="text/html" title="Elderflower Lager" />
+    <published>2022-07-10T18:13:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Stoop.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Elderflower.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-02T21:27:48+01:00</updated>
+    <updated>2022-07-10T19:15:31+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/Stoop/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Elderflower/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -51,13 +51,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
       
-Score: 62 (out of 100) / Rank: 50th (out of 123 beers) / This one was very lively and there was a mild fruity smell, I did struggle to get the head to not be half of the glass when I poured.
+Score: 67 (out of 100) / Rank: 37th (out of 129 beers) / Another beer needed to cool off in the heat and this time an elderflower beer.
 
-Once it settled the taste was nice refereshing beer with a smooth aftertaste.
+This one was the clearest beer I’ve had for a will and had a sweet smell.
 
-Overall a nice average beer.
-
-
+The taste was very sweet taste but had a slight bitterness, if was more like a soft drink but very nice on a hot summers day.
 
 
 
@@ -69,219 +67,185 @@ Overall a nice average beer.
 
 
 
-Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey)
+
+
+Check out how I rank all the beers I have tri...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Pineaplle IPA Soda</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/PineappleIPA/ " rel="alternate" type="text/html" title="Pineaplle IPA Soda" />
+    <published>2022-07-10T14:40:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/PineappleIPA.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-07-10T19:15:31+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/PineappleIPA/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 60 (out of 100) / Rank: 59th (out of 129 beers) / The hottest day of the year so a fruity choice called me when I opened the fridge.
+
+You could smell the pineapple as I poured and the taste was sweet and you could really get the pineapple which in some of the other fruity beers I haven’t got before.
+
+A nice beer to wash down lunch on a hot day, not sure I would have it on a regular basi...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Sober Brummie</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/SoberBrummie/ " rel="alternate" type="text/html" title="Sober Brummie" />
+    <published>2022-07-09T19:57:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/SoberBrummie.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-07-10T19:15:31+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/SoberBrummie/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 43 (out of 100) / Rank: 94th (out of 129 beers) / Another can that popped as I opened with a bit of the beer flying over the kitchen side but straight away a strong fruity smell.
+
+It was far too lively to poor and took about 5 minutes to settle but once it had there was a strong bitterness from the start but it wasn’t unpleasant.
+
+It was just let down by being too gassy as it did repeat...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Corona Cero</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/CoronaCero/ " rel="alternate" type="text/html" title="Corona Cero" />
+    <published>2022-07-09T19:28:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/CoronaCero.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-07-10T19:15:31+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/CoronaCero/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 66 (out of 100) / Rank: 41st (out of 129 beers) / I have seen a lot of people sharing this one on Instagram and glad it came in my AF club for July so I could try.
+
+This one didn’t have a smell but that might be the vaseline on my nose to stop the pollen getting in my nose. But taste wise this is the first beer in a while which took me back to being out drunk in a club at 18.
+
+Not sayin...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Tropic Of Now</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/TropicofNow/ " rel="alternate" type="text/html" title="Tropic Of Now" />
+    <published>2022-07-08T20:52:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/TropicofNow.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-07-10T19:15:31+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/TropicofNow/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Score: 73 (out of 100) / Rank: 20th (out of 129 beers) / Thought it was only right to try my new Brulo glass with a Brulo beer and on first glance I didn’t think the whole can would fit in but it did!
+
+This one had a subtle fizz and a subtle smell, a subtle first taste but a nice strong aftertaste.
+
+This one went down well and had more to it compared to the beer earlier in the evening.
+
+
+
+
+
+
 
 ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Speak Easy</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/SpeakEasy/ " rel="alternate" type="text/html" title="Speak Easy" />
-    <published>2022-07-01T20:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/SpeakEasy.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-07-02T21:27:48+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/SpeakEasy/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 71 (out of 100) / Rank: 26th (out of 123 beers) / Another mental health beer this one with Nice fruity smell a bit fizzy off the bat but settled down.
-
-A crisp taste with a little fruit coming through no real aftertaste to talk about.
-
-This one went down well whilst watching the stranger things finale.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Check out how I rank all the beers I have tried on my Non-Alcoholic Beer...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Lemon Gose</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/LemonGose/ " rel="alternate" type="text/html" title="Lemon Gose" />
-    <published>2022-06-29T21:30:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LemonGose.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-29T22:12:26+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/LemonGose/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 62 (out of 100) / Rank: 49th (out of 123 beers) / A risky choice to try a new beer whilst my hayfever is bad but I have too many new beers to get through as I haven’t got through last month’s Afbeer club yet!
-
-I couldn’t pick up anyhting in the smell but the taste came across as a tangy and refreshing with a mild aftertaste.
-
-10% of all proceeds from this limited edition beer will go st...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Point Five</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/PointFive/ " rel="alternate" type="text/html" title="Point Five" />
-    <published>2022-06-20T21:48:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/PointFive.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-20T22:05:14+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/PointFive/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 45 (out of 100) / Rank: 81st (out of 123 beers) / Probably the loudest beer I have had with a very bubbly head which didn’t settle for a long time.
-
-The taste improved as it finally settled and did have a nice bitter aftertaste, so not really looking to trouble the scorers.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey)
-
-Full details on Po...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Nothing But The Rain v.9</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/NBTR/ " rel="alternate" type="text/html" title="Nothing But The Rain v.9" />
-    <published>2022-06-17T20:00:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/NBTR.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-06-18T19:44:31+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/NBTR/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Score: 22 (out of 100) / Rank: 117th (out of 123 beers) / Another Beer trying to cool down and this one was a lively little number.
-
-No real smell but there was a strong sourness up front which didn’t sit well, almost soapy.
-
-After two nice beers before this one left a sour taste and more annoyingly I have no more in the fridge!
-
-
-
-
-
-
-
-
-
-
-
-
-
-Check out how I rank all the beers I have tried on m...
     </summary>
   
 
