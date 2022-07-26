@@ -33,7 +33,7 @@ date: {row[26]}
 last_modified_at: {row[48]}
 firsttaste: {row[25]}
 categories: [Non-Alcoholic Beers] 
-tags: [{tags}] 
+tags: [{row[61]}] 
 image: 
     src: {row[4]}
     height: 240 

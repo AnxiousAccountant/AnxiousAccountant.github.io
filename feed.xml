@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-07-10T18:18:22+01:00</updated>
+  <updated>2022-07-26T20:33:52+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,18 +21,18 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
-    <title>Elderflower Lager</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Elderflower/ " rel="alternate" type="text/html" title="Elderflower Lager" />
-    <published>2022-07-10T18:13:00+01:00</published>
+    <title>Lucky Saint (on tap)</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/LuckySaintTap/ " rel="alternate" type="text/html" title="Lucky Saint (on tap)" />
+    <published>2022-07-23T15:56:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Elderflower.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LuckySaintTap.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-10T19:15:31+01:00</updated>
+    <updated>2022-07-26T21:18:23+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/Elderflower/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/LuckySaintTap/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -51,25 +51,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
       
-Score: 67 (out of 100) / Rank: 37th (out of 129 beers) / Another beer needed to cool off in the heat and this time an elderflower beer.
+Score: 97 (out of 100) / Rank: 1st (out of 135 beers) / Today I had a PINT and it’s only been my second since I gave up drinking alcohol in 2011! This one was actually on tap the previous was just a Heineken zero out of a blade machine on the top of a bar.
 
-This one was the clearest beer I’ve had for a will and had a sweet smell.
-
-The taste was very sweet taste but had a slight bitterness, if was more like a soft drink but very nice on a hot summers day.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Check out how I rank all the beers I have tri...
+I’ve been meaning to go to the Tap in Marlbourgh since I had seen it on the AF club on tap map as it is not far from my house and today wa...
     </summary>
   
 
@@ -77,18 +61,18 @@ Check out how I rank all the beers I have tri...
 
   
   <entry>
-    <title>Pineaplle IPA Soda</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/PineappleIPA/ " rel="alternate" type="text/html" title="Pineaplle IPA Soda" />
-    <published>2022-07-10T14:40:00+01:00</published>
+    <title>Free Star Prime Time</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/PrimeTime/ " rel="alternate" type="text/html" title="Free Star Prime Time" />
+    <published>2022-07-20T21:41:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/PineappleIPA.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Primetime.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-10T19:15:31+01:00</updated>
+    <updated>2022-07-26T21:18:23+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/PineappleIPA/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/PrimeTime/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -107,11 +91,11 @@ Check out how I rank all the beers I have tri...
 
 
       
-Score: 60 (out of 100) / Rank: 59th (out of 129 beers) / The hottest day of the year so a fruity choice called me when I opened the fridge.
+Score: 87 (out of 100) / Rank: 6th (out of 135 beers) / The old recipe was really nice to was hoping the new one lived up to the old one. A nice smell from the pour which was a good start.
 
-You could smell the pineapple as I poured and the taste was sweet and you could really get the pineapple which in some of the other fruity beers I haven’t got before.
+Taste wise it’s been a while since I tried the old recipe but the new one was a clear and crisp taste followed by a bitterness which didn’t disappoint.
 
-A nice beer to wash down lunch on a hot day, not sure I would have it on a regular basi...
+Free star is also a sustainable beer so some bonus po...
     </summary>
   
 
@@ -119,18 +103,18 @@ A nice beer to wash down lunch on a hot day, not sure I would have it on a regul
 
   
   <entry>
-    <title>Sober Brummie</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/SoberBrummie/ " rel="alternate" type="text/html" title="Sober Brummie" />
-    <published>2022-07-09T19:57:00+01:00</published>
+    <title>Mandala</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Mandala/ " rel="alternate" type="text/html" title="Mandala" />
+    <published>2022-07-19T21:20:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/SoberBrummie.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Mandala.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-10T19:15:31+01:00</updated>
+    <updated>2022-07-26T21:18:23+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/SoberBrummie/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Mandala/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -149,11 +133,9 @@ A nice beer to wash down lunch on a hot day, not sure I would have it on a regul
 
 
       
-Score: 43 (out of 100) / Rank: 94th (out of 129 beers) / Another can that popped as I opened with a bit of the beer flying over the kitchen side but straight away a strong fruity smell.
+Score: 33 (out of 100) / Rank: 119th (out of 135 beers) / Nice to pour a beer that doesn’t go to fizzy and this one had a strong smell which reminded me of something but I just can’t put my hat on it.
 
-It was far too lively to poor and took about 5 minutes to settle but once it had there was a strong bitterness from the start but it wasn’t unpleasant.
-
-It was just let down by being too gassy as it did repeat...
+Even though it poured without a head there was a surprisingly bubbly feel on my tongue which wasn’t unpleasant and the taste was ok but again i couldn’t pin down any particular taste coming thro...
     </summary>
   
 
@@ -161,18 +143,18 @@ It was just let down by being too gassy as it did repeat...
 
   
   <entry>
-    <title>Corona Cero</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/CoronaCero/ " rel="alternate" type="text/html" title="Corona Cero" />
-    <published>2022-07-09T19:28:00+01:00</published>
+    <title>Bach 95 Zero</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Bach/ " rel="alternate" type="text/html" title="Bach 95 Zero" />
+    <published>2022-07-18T21:49:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/CoronaCero.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Bach.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-10T19:15:31+01:00</updated>
+    <updated>2022-07-26T21:18:23+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/CoronaCero/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Bach/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -191,11 +173,25 @@ It was just let down by being too gassy as it did repeat...
 
 
       
-Score: 66 (out of 100) / Rank: 41st (out of 129 beers) / I have seen a lot of people sharing this one on Instagram and glad it came in my AF club for July so I could try.
+Score: 46 (out of 100) / Rank: 86th (out of 135 beers) / Another fizzy beer which poured with a big head but the smell reminded of lagers of my youth.
 
-This one didn’t have a smell but that might be the vaseline on my nose to stop the pollen getting in my nose. But taste wise this is the first beer in a while which took me back to being out drunk in a club at 18.
+It was smooth and a little too bubbly but went down really well in the heatwave but it wasn’t l until I had finished that a bit of an aftertaste came through.
 
-Not sayin...
+I may have drunk this one two quick to savour the full taste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check out...
     </summary>
   
 
@@ -203,18 +199,18 @@ Not sayin...
 
   
   <entry>
-    <title>Tropic Of Now</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/TropicofNow/ " rel="alternate" type="text/html" title="Tropic Of Now" />
-    <published>2022-07-08T20:52:00+01:00</published>
+    <title>Azacca</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Azacca/ " rel="alternate" type="text/html" title="Azacca" />
+    <published>2022-07-17T18:49:00+01:00</published>
     <item>
     <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/TropicofNow.jpg" />]]>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Azacca.jpg" />]]>
           </content:encoded> 
 </item>
   
-    <updated>2022-07-10T19:15:31+01:00</updated>
+    <updated>2022-07-26T21:18:23+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/TropicofNow/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Azacca/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
@@ -233,19 +229,11 @@ Not sayin...
 
 
       
-Score: 73 (out of 100) / Rank: 20th (out of 129 beers) / Thought it was only right to try my new Brulo glass with a Brulo beer and on first glance I didn’t think the whole can would fit in but it did!
+Score: 82 (out of 100) / Rank: 13th (out of 135 beers) / A bright colour can to match the bright beer as it poured with a pleasant but non distinct smell.
 
-This one had a subtle fizz and a subtle smell, a subtle first taste but a nice strong aftertaste.
+I was trying this one with my alfresco dinner and the first taste was really nice and there was a nice aftertaste which went well with the cod and chorizo fishcakes.
 
-This one went down well and had more to it compared to the beer earlier in the evening.
-
-
-
-
-
-
-
-...
+It might be the heatwave talking but I think this is my favourite IPA to ...
     </summary>
   
 
