@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-09-02T19:09:07+01:00</updated>
+  <updated>2022-09-03T08:48:45+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,6 +21,60 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
+    <title>Rheinbacher Premium</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Rheinbacher/ " rel="alternate" type="text/html" title="Rheinbacher Premium" />
+    <published>2022-08-27T20:08:00+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/Rheinbacher.jpg" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-09-02T20:19:49+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Rheinbacher/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Non-Alcoholic Beers" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+Score: 65 (out of 100) / Rank: 54th (out of 140 beers) / A day out with some friends ended with us going back to their house for home made pizzas so stopped off at Aldi and picked up a pack of these to try.
+
+A nice beer that went down really well whilst watching the home made pizza cook in the pizza oven.
+
+Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Jou...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Chug</title>
     <link href="https://www.anxiousaccountant.co.uk/posts/Chug/ " rel="alternate" type="text/html" title="Chug" />
     <published>2022-08-25T21:55:00+01:00</published>
@@ -30,7 +84,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
           </content:encoded> 
 </item>
   
-    <updated>2022-09-02T20:07:05+01:00</updated>
+    <updated>2022-09-02T20:06:48+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Chug/ </id>
       <author>
@@ -63,7 +117,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 
 
-Score: 66 (out of 100) / Rank: 48th (out of 139 beers) / A great can design and it poured with a nice head and a cloudy appearance.
+Score: 60 (out of 100) / Rank: 48th (out of 140 beers) / A great can design and it poured with a nice head and a cloudy appearance.
 
 A clear and almost fluffy taste with a twist of bitterness coming through.
 
@@ -90,7 +144,7 @@ Full details on Chug….
           </content:encoded> 
 </item>
   
-    <updated>2022-09-02T20:07:05+01:00</updated>
+    <updated>2022-09-02T20:06:48+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/IceCreamSour/ </id>
       <author>
@@ -123,7 +177,7 @@ Full details on Chug….
 
 
 
-Score: 76 (out of 100) / Rank: 21st (out of 139 beers) / Another sour beer and this one had a lovely smell as I poured.
+Score: 72 (out of 100) / Rank: 21st (out of 140 beers) / Another sour beer and this one had a lovely smell as I poured.
 
 And the taste was fruity with a nice zingy sour which went down really smoothly. I hate to say it but I’m liking the sour beers recently.
 
@@ -146,7 +200,7 @@ Check out how I rank all the beers I have tr...
           </content:encoded> 
 </item>
   
-    <updated>2022-09-02T20:07:05+01:00</updated>
+    <updated>2022-09-02T20:06:46+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/Littler/ </id>
       <author>
@@ -179,7 +233,7 @@ Check out how I rank all the beers I have tr...
 
 
 
-Score: 49 (out of 100) / Rank: 87th (out of 139 beers) / The darkest beer I have had for a while but I didn’t get anything in the smell.
+Score: 44 (out of 100) / Rank: 88th (out of 140 beers) / The darkest beer I have had for a while but I didn’t get anything in the smell.
 
 Taste wise it was a little bitter but no real strong taste coming through, pleasant but nothing to write home about.
 
@@ -204,7 +258,7 @@ Full details on Littler Bitter….
           </content:encoded> 
 </item>
   
-    <updated>2022-09-02T20:07:05+01:00</updated>
+    <updated>2022-09-02T20:06:45+01:00</updated>
   
     <id>https://www.anxiousaccountant.co.uk/posts/CoffeeIceCreamSour/ </id>
       <author>
@@ -237,63 +291,11 @@ Full details on Littler Bitter….
 
 
 
-Score: 67 (out of 100) / Rank: 45th (out of 139 beers) / A another UK heatwave and what do you want on a far like that we ice cream and for today that comes in the form of a coffee ice cream sour beer.
+Score: 66 (out of 100) / Rank: 45th (out of 140 beers) / A another UK heatwave and what do you want on a far like that we ice cream and for today that comes in the form of a coffee ice cream sour beer.
 
 Didn’t like the colour of this one but the smell was pleasant. I could get coffee, and mango in the taste with a kick of sour in the mix.
 
 I haven’t had much luck with sour beers bu...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Lucky Saint (on tap)</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/LuckySaintTap/ " rel="alternate" type="text/html" title="Lucky Saint (on tap)" />
-    <published>2022-07-23T15:56:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/LuckySaintTap.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-07-26T21:18:19+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/LuckySaintTap/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-Score: 97 (out of 100) / Rank: 1st (out of 139 beers) / Today I had a PINT and it’s only been my second since I gave up drinking alcohol in 2011! This one was actually on tap the previous was just a Heineken zero out of a blade machine on the top of a bar.
-
-I’ve been meaning to go to the Tap in Marlbourgh since I had seen it on the AF club on tap map as it is not far from my house ...
     </summary>
   
 
