@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-10-24T12:26:23+01:00</updated>
+  <updated>2022-10-24T18:19:47+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -21,8 +21,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   
   <entry>
-    <title>Andy the Imposter!</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/Andy-the-imposter/ " rel="alternate" type="text/html" title="Andy the Imposter!" />
+    <title>Andy the Impostor!</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Andy-the-impostor/ " rel="alternate" type="text/html" title="Andy the Impostor!" />
     <published>2022-10-23T23:43:20+01:00</published>
     <item>
     <content:encoded>
@@ -32,7 +32,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
     <updated>2022-10-23T23:43:20+01:00</updated>
   
-    <id>https://www.anxiousaccountant.co.uk/posts/Andy-the-imposter/ </id>
+    <id>https://www.anxiousaccountant.co.uk/posts/Andy-the-impostor/ </id>
       <author>
       <name>Andrew Boorman</name>
     </author>
