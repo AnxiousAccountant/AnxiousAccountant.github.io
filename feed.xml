@@ -5,7 +5,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <id>https://www.anxiousaccountant.co.uk</id>
   <title>Anxious Accountant</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2022-10-22T17:00:14+01:00</updated>
+  <updated>2022-10-24T12:15:33+01:00</updated>
   <author>
     <name>Andrew Boorman</name>
     <uri>https://www.anxiousaccountant.co.uk</uri>
@@ -18,6 +18,45 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <icon>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon.ico</icon>
   <logo>https://www.anxiousaccountant.co.uk/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Andy the Imposter!</title>
+    <link href="https://www.anxiousaccountant.co.uk/posts/Andy-the-imposter/ " rel="alternate" type="text/html" title="Andy the Imposter!" />
+    <published>2022-10-23T23:43:20+01:00</published>
+    <item>
+    <content:encoded>
+    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/mask.gif" />]]>
+          </content:encoded> 
+</item>
+  
+    <updated>2022-10-23T23:43:20+01:00</updated>
+  
+    <id>https://www.anxiousaccountant.co.uk/posts/Andy-the-imposter/ </id>
+      <author>
+      <name>Andrew Boorman</name>
+    </author>
+  
+    
+    <category term="Mental Health" />
+    
+    <category term="Work" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      It’s been a while since I have shared my thoughts on my mental health and whilst I am recovering from Covid and not being in Ibiza with the family I have had a lot of time to think I thought it was worth getting some of those out of my head. The first one being will tea ever taste right again (it had better do!) and why has my asthma come back which I will speak to the doctor about luckily I ha...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -240,62 +279,6 @@ A nice smell with a strong taste but without being over powering. It went down r
 Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey)
 
 Full ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Easy Sunshine</title>
-    <link href="https://www.anxiousaccountant.co.uk/posts/EasySunshine/ " rel="alternate" type="text/html" title="Easy Sunshine" />
-    <published>2022-10-01T22:24:00+01:00</published>
-    <item>
-    <content:encoded>
-    <![CDATA[<img src="https://www.anxiousaccountant.co.uk/assets/img/beers/EasySunshine.jpg" />]]>
-          </content:encoded> 
-</item>
-  
-    <updated>2022-10-11T23:43:20+01:00</updated>
-  
-    <id>https://www.anxiousaccountant.co.uk/posts/EasySunshine/ </id>
-      <author>
-      <name>Andrew Boorman</name>
-    </author>
-  
-    
-    <category term="Non-Alcoholic Beers" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-Score: 41 (out of 100) / Rank: 109th (out of 155 beers) / Probably the clearest beer I’ve had for a while which you can see in the picture but as it settled it became cloudy.
-
-This one had a strong fruity smell but I didn’t get anything fruity in the taste, it was clean and crisp.
-
-Check out how I rank all the beers I have tried on my Non-Alcoholic Beer Journey)
-
-Full details on Ea...
     </summary>
   
 
